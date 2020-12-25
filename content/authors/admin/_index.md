@@ -14,7 +14,7 @@ organizations:
   url: http://www.bu.edu/econ/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include monetary policy, the housing market, and text analysis.
+bio: My research interests include monetary policy, the housing market, and central banks' communications.
 
 # Interests to show in About widget
 interests:
