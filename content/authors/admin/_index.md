@@ -6,12 +6,12 @@ title: Stefano Pica
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate, Department of Economics
+role: Ph.D. Candidate in Economics at Boston University
 
 # Organizations/Affiliations to show in About widget
-organizations:
-- name: Boston University
-  url: http://www.bu.edu/econ/
+# organizations:
+# - name: Boston University
+#   url: http://www.bu.edu/econ/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include monetary policy, the housing market, and central banks' communications.
@@ -76,8 +76,8 @@ email: ""
 highlight_name: false
 ---
 
-I am a Ph.D. candidate in the Boston University Economics Department.
+I am a Ph.D. candidate in the [Boston University Economics Department](http://www.bu.edu/econ/).
 
 My research focuses on the interaction between monetary policy and the housing market. I am also interested in uncovering the effects of central banks’ communications on the macroeconomy using text analysis.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_Pica.pdf" "newtab" >}}resumé{{< /staticref >}}.
