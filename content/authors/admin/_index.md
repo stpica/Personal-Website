@@ -37,9 +37,9 @@ education:
   - course: Laurea Magistralis in Economics and Finance
     institution: University of Naples “Federico II”
     year: 2014
-  - course: Laurea Triennale in Economia e Commercio
-    institution: University of Naples “Federico II”
-    year: 2012
+  # - course: Laurea Triennale in Economia e Commercio
+    # institution: University of Naples “Federico II”
+    # year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -65,9 +65,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: media/CV_Pica.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: media/CV_Pica.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -81,3 +81,7 @@ I am a Ph.D. candidate in the [Boston University Economics Department](http://ww
 My research focuses on the interaction between monetary policy and the housing market. I am also interested in uncovering the effects of central banks’ communications on the macroeconomy using text analysis.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_Pica.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+<!-- I hold an MA from [CEMFI](https://www.cemfi.es/) (Madrid), and both a BA and an MSc from the [University of Naples Federico II](http://www.international.unina.it/) - the oldest public university in the world) -->
+
+<!-- I have [teaching](https://stpica.github.io/teaching/) experience at the graduate level as instructor of the first-year PhD macroeconomics course at Boston University. -->
