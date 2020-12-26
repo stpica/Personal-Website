@@ -24,8 +24,8 @@
    weight = 40
 
 [[main]]
-   name = "Try"
-   url = "research/pub"
+   name = "Research"
+  url = "research/"
    weight = 40
 
 
