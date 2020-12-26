@@ -7,8 +7,8 @@ title: Posts
 #   3 = Card
 view: 2
 
-# Optional header image (relative to `static/media/` folder).
+# Optional header image (relative to `static/img/` folder).
 header:
-  caption: ""
+  caption: "Caption"
   image: ""
 ---
