@@ -37,7 +37,7 @@ abstract: Which words matter the most in central bank communication? Making use 
 # Summary. An optional shortened abstract.
 summary: Which words matter the most in central bank communication? Making use of a rather unique European monetary policy decision setting, we build the first monetary policy dictionary. We train the dictionary on a new intra-day level return data, which allows us to precisely identify which phrases do the market mainly reacts to.
 
-tags: [Monetary Policy, Central Bank's Communication, Text Analysis]
+# tags: [Monetary Policy, Central Bank's Communication, Text Analysis]
 
 # Display this page in the Featured widget?
 featured: false
@@ -59,7 +59,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
