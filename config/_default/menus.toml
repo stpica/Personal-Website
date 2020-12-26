@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Research"
-  url = "#featured"
+  url = "research/"
   weight = 20
 
 [[main]]
@@ -23,10 +23,6 @@
    url = "media/CV_Pica.pdf"
    weight = 40
 
-[[main]]
-   name = "Research"
-  url = "research/"
-   weight = 40
 
 
 
