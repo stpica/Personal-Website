@@ -23,6 +23,11 @@
    url = "media/CV_Pica.pdf"
    weight = 40
 
+[[main]]
+   name = "Try"
+   url = "research/pub"
+   weight = 40
+
 
 
 # [[main]]
