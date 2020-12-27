@@ -41,7 +41,7 @@ summary: Which words matter the most in central bank communication? Making use o
 tags: [Monetary Policy, Central Bank's Communication, Text Analysis]
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
