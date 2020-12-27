@@ -50,8 +50,7 @@ featured: false
 url_pdf: ''
 url_code: ''
 url_dataset: ''
-url_poster: "media/CV_Pica.pdf"
-# url_poster: 'https://www.dropbox.com/s/nypb7bt2cqzyf4d/PP_poster.pdf?dl=0'
+url_poster: "research/poster/PP_poster.pdf"
 url_project: ''
 url_slides: ''
 url_source: ''
