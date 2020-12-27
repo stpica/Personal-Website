@@ -76,7 +76,7 @@ email: ""
 highlight_name: false
 ---
 
-I am a Ph.D. candidate in the [Boston University Economics Department](http://www.bu.edu/econ/).
+II am a Ph.D. candidate in the [Boston University Economics Department](http://www.bu.edu/econ/).
 
 My research focuses on the interaction between monetary policy and the housing market. I am also interested in uncovering the effects of central banks’ communications on the macroeconomy using text analysis.
 
