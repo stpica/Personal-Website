@@ -31,10 +31,18 @@ experience:
     description:
         
   - title:  Research Assistant to Jaime Luque
-    company: ESPC Madrid 
+    company: ESCP Business School 
     company_url: ''
     location: Madrid
     date_start: '2020-10'
     date_end: '2020-12'
+    description:
+
+  - title:  Visiting Scholar
+    company: Bank of Spain 
+    company_url: ''
+    location: Madrid
+    date_start: '2018-06'
+    date_end: '2018-08'
     description:
 ---
