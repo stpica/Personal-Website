@@ -6,7 +6,8 @@ title: "Future Policy and Information Dissemination: A Natural Language Processi
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Alden Porter
+- [Alden Porter](https://aldenporter.com/)
+
 
 # Author notes (optional)
 # author_notes:
