@@ -1,5 +1,5 @@
 ---
-title: Example Project
+title: Food Versus Non-Food Consumption Insurance in Uganda
 summary: An example of using the in-built project page.
 tags:
 - Deep Learning

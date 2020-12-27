@@ -1,20 +1,18 @@
 ---
-title: "Future Policy and Information Dissemination: A Natural Language Processing Approach"
+title: "Monetary Policy and Homeownership in Europe"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Alden Porter
-
 
 # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2020-01-01T00:00:00Z"
+date: "2020-12-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -33,15 +31,15 @@ publication_types: ["3"]
 publication:
 publication_short:
 
-abstract: Which words matter the most in central bank communication? Making use of a rather unique European monetary policy decision setting, we build the first monetary policy dictionary. We train the dictionary on a new intra-day level return data, which allows us to precisely identify which phrases do the market mainly reacts to. As an application, we attempt to distinguish whether financial markets react to learning about current economic conditions or future bank actions.
+abstract: How does the transmission mechanism of monetary policy work through the housing market in Europe? Existing evidence point to the importance of hand-to-mouth and homeownership rates in explaining heterogeneity in reactions of monetary policy across Europe. I build an heterogenous-agents New Keynesian model to shed light on this issue.
 
 # Summary. An optional shortened abstract.
-summary: Which words matter the most in central bank communication? Making use of a rather unique European monetary policy decision setting, we build the first monetary policy dictionary. We train the dictionary on a new intra-day level return data, which allows us to precisely identify which phrases do the market mainly reacts to.
+summary: 
 
-tags: [Monetary Policy, Central Bank's Communication, Text Analysis]
+tags: [Monetary Policy, Housing Market, Mortgage Market]
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
@@ -51,7 +49,7 @@ featured: false
 url_pdf: ''
 url_code: ''
 url_dataset: ''
-url_poster: "research/poster/PP_poster.pdf"
+url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
