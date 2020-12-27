@@ -23,7 +23,7 @@ doi: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 # publication: In *Wowchemy Conference*
@@ -32,7 +32,7 @@ publication_types: ["3"]
 publication:
 publication_short:
 
-abstract: Which words matter the most in central bank communication? Making use of a rather unique European monetary policy decision setting, we build the first monetary policy dictionary. We train the dictionary on a new intra-day level return data, which allows us to precisely identify which phrases do the market mainly reacts to.
+abstract: Which words matter the most in central bank communication? Making use of a rather unique European monetary policy decision setting, we build the first monetary policy dictionary. We train the dictionary on a new intra-day level return data, which allows us to precisely identify which phrases do the market mainly reacts to. As an application, we attempt to distinguish whether financial markets react to learning about current economic conditions or future bank actions.
 
 # Summary. An optional shortened abstract.
 summary: Which words matter the most in central bank communication? Making use of a rather unique European monetary policy decision setting, we build the first monetary policy dictionary. We train the dictionary on a new intra-day level return data, which allows us to precisely identify which phrases do the market mainly reacts to.
@@ -50,7 +50,7 @@ featured: false
 url_pdf: ''
 url_code: ''
 url_dataset: ''
-url_poster: '#'
+url_poster: 'https://www.dropbox.com/s/nypb7bt2cqzyf4d/PP_poster.pdf?dl=0'
 url_project: ''
 url_slides: ''
 url_source: ''
