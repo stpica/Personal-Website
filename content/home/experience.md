@@ -26,7 +26,7 @@ experience:
     company: Boston University
     company_url: ''
     location: Boston
-    date_start: '2018-01'
+    date_start: '2018-01-01'
     date_end: ''
     description:
         
@@ -34,15 +34,15 @@ experience:
     company: ESCP Business School 
     company_url: ''
     location: Madrid
-    date_start: '2020-10'
-    date_end: '2020-12'
+    date_start: '2020-10-01'
+    date_end: '2020-12-01'
     description:
 
   - title:  Visiting Scholar
     company: Bank of Spain 
     company_url: ''
     location: Madrid
-    date_start: '2018-06'
-    date_end: '2018-08'
+    date_start: '2018-06-01'
+    date_end: '2018-09-01'
     description:
 ---
