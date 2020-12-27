@@ -32,12 +32,12 @@ publication_types: ["7"]
 publication: Master Thesis CEMFI No. 1601 
 publication_short:
 
-abstract: Households’ income fluctuations in poor countries call for risk smoothing mechanisms, yet insurance is always found to be incomplete. We build a two-goods complete markets model, and confirm this result with the UNPS - a new representative Uganda panel data. The empirical evidence suggests that the degree of consumption insurance differs across consumption goods:Households insure food better than other non-durables.
+abstract: "Households’ income fluctuations in poor countries call for risk smoothing mechanisms, yet insurance is always found to be incomplete. We build a two-goods complete markets model, and confirm this result with the UNPS - a new representative Uganda panel data. The empirical evidence suggests that the degree of consumption insurance differs across consumption goods: Households insure food better than other non-durables."
 
 # Summary. An optional shortened abstract.
-summary: Households’ income fluctuations in poor countries call for risk smoothing mechanisms, yet insurance is always found to be incomplete. We build a two-goods complete markets model, and confirm this result with the UNPS - a new representative Uganda panel data. The empirical evidence suggests that the degree of consumption insurance differs across consumption goods:Households insure food better than other non-durables.
+summary: "Households’ income fluctuations in poor countries call for risk smoothing mechanisms, yet insurance is always found to be incomplete. We build a two-goods complete markets model, and confirm this result with the UNPS - a new representative Uganda panel data. The empirical evidence suggests that the degree of consumption insurance differs across consumption goods: Households insure food better than other non-durables."
 
-tags: [Incomplete Markets]
+tags: [Incomplete Markets, Household Survey]
 
 # Display this page in the Featured widget?
 featured: false
