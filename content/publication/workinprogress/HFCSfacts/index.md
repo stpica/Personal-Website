@@ -1,5 +1,5 @@
 ---
-title: "Food Versus Non-Food Consumption Insurance in Uganda"
+title: "What Do We Know About the Housing Market in Europe? Evidence From the HFCS"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -7,13 +7,12 @@ title: "Food Versus Non-Food Consumption Insurance in Uganda"
 authors:
 - admin
 
-
 # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2016-09-01T00:00:00Z"
+date: "2020-12-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -23,21 +22,21 @@ doi: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["7"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 # publication: In *Wowchemy Conference*
 # publication_short: In *ICW*
 
-publication: Master Thesis CEMFI No. 1601 
+publication:
 publication_short:
 
-abstract: Households’ income fluctuations in poor countries call for risk smoothing mechanisms, yet insurance is always found to be incomplete. We build a two-goods complete markets model, and confirm this result with the UNPS - a new representative Uganda panel data. The empirical evidence suggests that the degree of consumption insurance differs across consumption goods:Households insure food better than other non-durables.
+abstract: Which words matter the most in central bank communication? Making use of a rather unique European monetary policy decision setting, we build the first monetary policy dictionary. We train the dictionary on a new intra-day level return data, which allows us to precisely identify which phrases do the market mainly reacts to. As an application, we attempt to distinguish whether financial markets react to learning about current economic conditions or future bank actions.
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: Which words matter the most in central bank communication? Making use of a rather unique European monetary policy decision setting, we build the first monetary policy dictionary. We train the dictionary on a new intra-day level return data, which allows us to precisely identify which phrases do the market mainly reacts to.
 
-tags: [Incomplete Markets]
+tags: [Housing Market, Mortgage Market, Households' Survey]
 
 # Display this page in the Featured widget?
 featured: false
@@ -47,10 +46,10 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'research/drafts/CEMFI_thesis.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
-url_poster: ""
+url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
