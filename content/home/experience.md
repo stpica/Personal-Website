@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Research Assistant to Jaime Luque
     company: ESCP Business School 
-    company_url: ''
+    company_url: 'https://escp.eu/luque-jaime'
     location: Madrid
     date_start: '2020-10-01'
     date_end: '2020-12-01'
@@ -32,7 +32,7 @@ experience:
         
   - title: Visiting Scholar
     company: Bank of Spain 
-    company_url: ''
+    company_url: 'https://www.bde.es/investigador/en/'
     location: Madrid
     date_start: '2018-06-01'
     date_end: '2018-09-01'
@@ -40,7 +40,7 @@ experience:
 
   - title: Research Assistant to Adam Guren
     company: Boston University
-    company_url: ''
+    company_url: 'http://people.bu.edu/guren/'
     location: Boston
     date_start: '2018-01-01'
     date_end: ''
@@ -48,7 +48,7 @@ experience:
 
   - title: Visiting Scholar
     company: Capital Markets Cooperative Research Centre 
-    company_url: ''
+    company_url: 'https://cmcrc.com/about/'
     location: Sydney
     date_start: '2014-04-01'
     date_end: '2018-06-01'
