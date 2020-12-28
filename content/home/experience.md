@@ -51,6 +51,6 @@ experience:
     company_url: 'https://cmcrc.com/about/'
     location: Sydney
     date_start: '2014-04-01'
-    date_end: '2018-06-01'
+    date_end: '2014-06-01'
     description:
 ---
