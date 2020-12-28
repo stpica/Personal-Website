@@ -1,5 +1,5 @@
 ---
-title: "What Do We Know About the Housing Market in Europe? Evidence From the HFCS"
+title: "What Do We Know About the Housing Markets in Europe? Evidence From the HFCS"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -12,7 +12,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2020-12-01T00:00:00Z"
+date: "2020-10-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -31,12 +31,12 @@ publication_types: ["3"]
 publication:
 publication_short:
 
-abstract: Which words matter the most in central bank communication? Making use of a rather unique European monetary policy decision setting, we build the first monetary policy dictionary. We train the dictionary on a new intra-day level return data, which allows us to precisely identify which phrases do the market mainly reacts to. As an application, we attempt to distinguish whether financial markets react to learning about current economic conditions or future bank actions.
+abstract: How much do European countries differ in terms of their housing and mortgage markets? I answer this question by making use of the HFCS - an harmonized household survey designed by the ECB. I find that the Loan-to-Value ratio distributions are pretty stable over time, and most notably - and contrary to previous evidence - very similar across countries. Differently, mortgage duration is cyclical and starkly different across countries.
 
 # Summary. An optional shortened abstract.
-summary: Which words matter the most in central bank communication? Making use of a rather unique European monetary policy decision setting, we build the first monetary policy dictionary. We train the dictionary on a new intra-day level return data, which allows us to precisely identify which phrases do the market mainly reacts to.
+summary: How much do European countries differ in terms of their housing and mortgage markets? I answer this question by making use of the HFCS - an harmonized household survey designed by the ECB. I find that the Loan-to-Value ratio distributions are pretty stable over time, and most notably - and contrary to previous evidence - very similar across countries. Differently, mortgage duration is cyclical and starkly different across countries.
 
-tags: [Housing Market, Mortgage Market, Households' Survey]
+tags: [Housing Markets, Mortgage Markets, Household Survey]
 
 # Display this page in the Featured widget?
 featured: false
@@ -79,13 +79,3 @@ projects: []
 # slides: example
 slides: ""
 ---
-
-<!-- {{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
