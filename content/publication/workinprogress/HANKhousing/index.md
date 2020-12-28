@@ -58,7 +58,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Mortgages reaction to monetary policy shocks using Jorda projections'
+  caption: 'New mortgages reaction to high-frequency monetary policy shocks using Jorda projection method'
   focal_point: ""
   preview_only: false
 
@@ -69,7 +69,7 @@ image:
 #   Otherwise, set `projects: []`.
 # projects:
 # - example
-projects: []
+projects: [HFCSfacts]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
