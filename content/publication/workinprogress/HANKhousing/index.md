@@ -1,5 +1,5 @@
 ---
-title: "Monetary Policy and Homeownership in Europe"
+title: "Monetary Policy and Homeownership Rates in Europe"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -12,7 +12,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2020-12-01T00:00:00Z"
+date: "2021-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -31,12 +31,12 @@ publication_types: ["3"]
 publication:
 publication_short:
 
-abstract: How does the transmission mechanism of monetary policy work through the housing market in Europe? Existing evidence point to the importance of hand-to-mouth and homeownership rates in explaining heterogeneity in reactions of monetary policy across Europe. I build an heterogenous-agents New Keynesian model to shed light on this issue.
+abstract: How does the transmission mechanism of monetary policy work through the housing market in Europe? Existing evidence point to the importance of hand-to-mouth shares and homeownership rates in explaining heterogeneity in reactions of monetary policy across Europe. I build an heterogenous-agents New Keynesian model to shed light on this issue.
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: How does the transmission mechanism of monetary policy work through the housing market in Europe? Existing evidence point to the importance of hand-to-mouth shares and homeownership rates in explaining heterogeneity in reactions of monetary policy across Europe. I build an heterogenous-agents New Keynesian model to shed light on this issue.
 
-tags: [Monetary Policy, Housing Market, Mortgage Market]
+tags: [Monetary Policy, Housing Markets, Mortgage Markets, VAR Analysis, Household Survey]
 
 # Display this page in the Featured widget?
 featured: false
