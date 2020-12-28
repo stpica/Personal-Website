@@ -78,10 +78,12 @@ highlight_name: false
 
 I am a Ph.D. candidate in the [Boston University Economics Department](http://www.bu.edu/econ/).
 
-My research focuses on the interaction between monetary policy and the housing market. I am also interested in uncovering the effects of central banks’ communications on the macroeconomy using text analysis.
+My research focuses on the interaction between monetary policy and the housing market, using household surveys to inform models. You can find the list of my research project in my [research page](https://www.stefanopica.com/research/).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_Pica.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_Pica.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
 
-<!-- I hold an MA from [CEMFI](https://www.cemfi.es/) (Madrid), and both a BA and an MSc from the [University of Naples Federico II](http://www.international.unina.it/) - the oldest public university in the world) -->
+<!-- I am also interested in uncovering the effects of central banks’ communications on the macroeconomy using text analysis. -->
+
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_Pica.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
 
 <!-- I have [teaching](https://stpica.github.io/teaching/) experience at the graduate level as instructor of the first-year PhD macroeconomics course at Boston University. -->
