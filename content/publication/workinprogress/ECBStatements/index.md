@@ -14,7 +14,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2020-03-31T00:00:00Z"
+date: "2020-03-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -51,7 +51,7 @@ featured: false
 url_pdf: ''
 url_code: ''
 url_dataset: ''
-url_poster: "research/poster/PP_poster.pdf"
+url_poster: 'research/poster/PP_poster.pdf'
 url_project: ''
 url_slides: 'research/slides/PP_Spring2020.pdf'
 url_source: ''
