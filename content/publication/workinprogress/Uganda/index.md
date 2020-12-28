@@ -37,7 +37,7 @@ abstract: "Households’ income fluctuations in poor countries call for risk smo
 # Summary. An optional shortened abstract.
 summary: "Households’ income fluctuations in poor countries call for risk smoothing mechanisms, yet insurance is always found to be incomplete. We build a two-goods complete markets model, and confirm this result with the UNPS - a new representative Uganda household-level panel data. The empirical evidence suggests that the degree of consumption insurance differs across consumption goods: Households insure food better than other non-durables. This finding has potential policy implications (e.g., consumption-item specific such as food coupons)."
 
-tags: [Incomplete Markets, Household Survey]
+tags: [Incomplete Markets, Consumption Insurance, Household Survey]
 
 # Display this page in the Featured widget?
 featured: false
@@ -59,7 +59,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
+  caption: 'Testing Limited Commitment: Food vs Non-Food Insurance in Rural Uganda'
   focal_point: ""
   preview_only: false
 
