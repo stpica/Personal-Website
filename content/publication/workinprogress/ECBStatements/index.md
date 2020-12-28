@@ -53,7 +53,7 @@ url_code: ''
 url_dataset: ''
 url_poster: "research/poster/PP_poster.pdf"
 url_project: ''
-url_slides: ''
+url_slides: 'research/slides/PP_Spring2020.pdf'
 url_source: ''
 url_video: ''
 
