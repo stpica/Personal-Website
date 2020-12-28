@@ -6,7 +6,7 @@ title: Stefano Pica
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate in Economics at Boston University
+role: Ph.D. Candidate in Economics, Boston University
 
 # Organizations/Affiliations to show in About widget
 # organizations:
