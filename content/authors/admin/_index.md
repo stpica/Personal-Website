@@ -78,7 +78,7 @@ highlight_name: false
 
 I am a Ph.D. candidate in the [Boston University Economics Department](http://www.bu.edu/econ/).
 
-My research focuses on the interaction between monetary policy and the housing market, using household surveys to inform models. You can find the list of my research project in my [research page](https://www.stefanopica.com/research/).
+My research focuses on the interaction between monetary policy and the housing market, using household surveys to inform models. I am also interested in uncovering the effects of central banks’ communications on the macroeconomy using text analysis. You can find the list of my research project in my [research page](https://www.stefanopica.com/research/).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_Pica.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
 
