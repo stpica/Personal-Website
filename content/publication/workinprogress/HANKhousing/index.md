@@ -58,7 +58,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
+  caption: 'Mortgages reaction to monetary policy shocks using Jorda projections'
   focal_point: ""
   preview_only: false
 
