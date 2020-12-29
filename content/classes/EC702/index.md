@@ -1,7 +1,7 @@
 ---
-title: 'CAS EC 204 Empirical Economics'
+title: 'EC702'
 subtitle: ''
-summary: Instructor for the second level course in the introductory level sequence of empirical economics.
+summary: Teaching Assistant for the first-year Ph.D. level Macroeconomics, during Fall 2019, Fall 2018, Fall 2017
 
 featured: false
 draft: false
