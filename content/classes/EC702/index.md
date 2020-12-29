@@ -3,7 +3,7 @@ title: EC702
 subtitle: First-year Ph.D. level Macroeconomics
 
 # Summary for listings and search engines
-summary: Teaching Assistant for the Ph.D. level Macroeconomics class.
+summary: Teaching Assistant for the Ph.D. level Macroeconomics class. Fall 2019, Fall 2018, Fall 2017.
 # - Taught during Fall 2019, Fall 2018, and Fall 2017.
 
 # Link this post with a project
@@ -24,12 +24,8 @@ featured: false
 links:
   - icon_pack: fab
     icon: github
-    name: 'Working Paper'
-    url: 'https://github.com/stpica'
-
-  # - icon: github
-  #   icon_pack: fab
-  #   link: https://github.com/stpica
+    name: 'Course page'
+    url: 'https://github.com/stpica/EC702-Fall-TA'
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -55,7 +51,7 @@ I have been teaching assistant to professor [Pascual Restrepo](http://pascual.sc
 
 All teaching material, including **Matlab** and **Dynare** codes as well as slides, can be found on my course-related [Github page](https://github.com/stpica/EC702-Fall-TA). I detail an outlines of my lectures as follows 👉.
 
-## Discussion 1 [(pdf)](http://pascual.scripts.mit.edu/)
+## Discussion 1
 
 Basic theory of differential and difference equations.
 
