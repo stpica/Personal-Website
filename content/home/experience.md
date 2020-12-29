@@ -1,11 +1,10 @@
----
+<!-- ---
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
 
 # This file represents a page section.
 headless: true
-activate: false
 
 # Order that this section appears on the page.
 weight: 40
@@ -54,4 +53,4 @@ experience:
     date_start: '2014-04-01'
     date_end: '2014-06-01'
     description:
----
+--- -->
