@@ -41,4 +41,4 @@ author = "admin"
   padding = ["20px", "0", "20px", "0"]
 +++
 
-<img src="/img/teaching.jpg" width="500" height="200" />
+<center> <img src="/img/teaching.jpg" width="500" height="200" /> </center>
