@@ -45,6 +45,10 @@ tags:
 # categories:
 # - Demo
 
+content:
+  # Page type to display. E.g. post, talk, publication...
+  page_type: publication
+
 ---
 
 I have been teaching assistant to professor [Pascual Restrepo](http://pascual.scripts.mit.edu/) and professor [Stephen Terry](https://sites.google.com/site/stephenjamesterry/) during Fall 2019, Fall 2018, and Fall 2017.
