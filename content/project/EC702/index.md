@@ -24,7 +24,7 @@ featured: false
 links:
   - icon_pack: fab
     icon: github
-    name: 'Course page'
+    name: 'Github course page with codes and slides'
     url: 'https://github.com/stpica/EC702-Fall-TA'
 
 # Featured image
