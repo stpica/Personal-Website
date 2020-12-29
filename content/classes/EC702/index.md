@@ -21,11 +21,11 @@ draft: false
 # Show this page in the Featured widget?
 featured: false
 
-links:
-  - icon_pack: fas
-    icon: file-pdf
-    name: 'Working Paper'
-    url: 'https://github.com/stpica'
+# links:
+#   - icon_pack: fas
+#     icon: file-pdf
+#     name: 'Working Paper'
+#     url: 'https://github.com/stpica'
 
   # - icon: github
   # icon_pack: fab
