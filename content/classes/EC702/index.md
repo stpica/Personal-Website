@@ -26,19 +26,17 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
   focal_point: ""
   placement: 2
-  preview_only: false
+  preview_only: true
 
 authors:
 - admin
-- 吳恩達
 
 tags:
 - Academic
-- 开源
 
-categories:
-- Demo
-- 教程
+# categories:
+# - Demo
+
 ---
 
 ## Overview
