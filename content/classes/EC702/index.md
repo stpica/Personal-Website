@@ -21,15 +21,15 @@ draft: false
 # Show this page in the Featured widget?
 featured: false
 
-# links:
-#   - icon_pack: fas
-#     icon: file-pdf
-#     name: 'Working Paper'
-#     url: 'https://github.com/stpica'
+links:
+  - icon_pack: fab
+    icon: github
+    name: 'Working Paper'
+    url: 'https://github.com/stpica'
 
   # - icon: github
-  # icon_pack: fab
-  # link: https://github.com/stpica
+  #   icon_pack: fab
+  #   link: https://github.com/stpica
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
