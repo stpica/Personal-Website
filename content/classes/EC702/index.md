@@ -4,7 +4,7 @@ subtitle: First-year Ph.D. level Macroeconomics
 
 # Summary for listings and search engines
 summary: Teaching Assistant for the Ph.D. level Macroeconomics class.
-- Taught during Fall 2019, Fall 2018, and Fall 2017.
+# - Taught during Fall 2019, Fall 2018, and Fall 2017.
 
 # Link this post with a project
 projects: []
