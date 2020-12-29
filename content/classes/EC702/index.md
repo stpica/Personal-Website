@@ -6,13 +6,13 @@ summary: Teaching Assistant for the first-year Ph.D. level Macroeconomics, durin
 featured: false
 draft: false
 
-date: "2019-08-08"
+date: ""
 
-links:
-  - icon_pack: fas
-    icon: file-pdf
-    name: 'Syllabus'
-    url: 'https://gianlucarusso.github.io/Syll_EC204_SMR2_2019.pdf'
+# links:
+#   - icon_pack: fas
+#     icon: file-pdf
+#     name: 'Syllabus'
+#     url: ''
 ---
 
 I have designed and taught EC 204 at Boston University as an Instructor during summer 2018 and summer 2019. The class focuses on the basics of linear regression analysis and hypothesis testing.
