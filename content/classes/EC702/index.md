@@ -1,9 +1,9 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: EC702
+subtitle:
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: Teaching Assistant for the first-year Ph.D.-level Macroeconomics, during Fall 2019, Fall 2018, Fall 2017.
 
 # Link this post with a project
 projects: []
@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: ''
   focal_point: ""
   placement: 2
   preview_only: true
@@ -39,11 +39,13 @@ tags:
 
 ---
 
-## Overview
+I have been teaching assistant to professor [Pascual Restrepo](http://pascual.scripts.mit.edu/) and professor [Stephen Terry](https://sites.google.com/site/stephenjamesterry/) during Fall 2019, Fall 2018, and Fall 2017.
 
-1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+All teaching material, including Matlab and Dynare codes as well as slides, can be found on my course-related [Github page](https://github.com/stpica/EC702-Fall-TA). I detail an outlines of my lectures as follows.
+
+## Discussion 1
+
+Basic theory of differential and difference equations
 
 {{< figure src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
 
