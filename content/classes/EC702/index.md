@@ -1,9 +1,9 @@
 ---
 title: EC702
-subtitle:
+subtitle: Teaching Assistant for the first-year Ph.D. level Macroeconomics, during Fall 2019, Fall 2018, and Fall 2017
 
 # Summary for listings and search engines
-summary: Teaching Assistant for the first-year Ph.D.-level Macroeconomics, during Fall 2019, Fall 2018, Fall 2017.
+summary: Teaching Assistant for the first-year Ph.D. level Macroeconomics, during Fall 2019, Fall 2018, and Fall 2017.
 
 # Link this post with a project
 projects: []
@@ -41,7 +41,7 @@ tags:
 
 I have been teaching assistant to professor [Pascual Restrepo](http://pascual.scripts.mit.edu/) and professor [Stephen Terry](https://sites.google.com/site/stephenjamesterry/) during Fall 2019, Fall 2018, and Fall 2017.
 
-All teaching material, including Matlab and Dynare codes as well as slides, can be found on my course-related [Github page](https://github.com/stpica/EC702-Fall-TA). I detail an outlines of my lectures as follows 👉.
+All teaching material, including **Matlab** and **Dynare** codes as well as slides, can be found on my course-related [Github page](https://github.com/stpica/EC702-Fall-TA). I detail an outlines of my lectures as follows 👉.
 
 ## Discussion 1
 
