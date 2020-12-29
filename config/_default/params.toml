@@ -13,7 +13,7 @@
 #   Guide to color themes: https://wowchemy.com/docs/customization/#color-themes
 #   Browse the latest built-in font sets at https://github.com/wowchemy/wowchemy-hugo-modules/tree/master/wowchemy/data/themes/
 #   Browse user installed themes in `data/themes/`
-theme = "forest" # I like earth, minimal, ocean
+theme = "ocean" # I like earth, minimal, ocean
 
 # Enable users to switch between day and night mode?
 day_night = true
