@@ -14,7 +14,7 @@ author = "admin"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
   [design.background]
     # Apply a background color, gradient, or image.
@@ -41,4 +41,4 @@ author = "admin"
   padding = ["20px", "0", "20px", "0"]
 +++
 
-<center> <img src="/img/teaching.jpg" width="500" height="200" /> </center>
+<center> <img src="/img/teaching.jpg" width="700" height="200" /> </center>
