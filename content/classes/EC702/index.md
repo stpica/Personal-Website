@@ -41,15 +41,15 @@ tags:
 
 I have been teaching assistant to professor [Pascual Restrepo](http://pascual.scripts.mit.edu/) and professor [Stephen Terry](https://sites.google.com/site/stephenjamesterry/) during Fall 2019, Fall 2018, and Fall 2017.
 
-All teaching material, including Matlab and Dynare codes as well as slides, can be found on my course-related [Github page](https://github.com/stpica/EC702-Fall-TA). I detail an outlines of my lectures as follows.
+All teaching material, including Matlab and Dynare codes as well as slides, can be found on my course-related [Github page](https://github.com/stpica/EC702-Fall-TA). I detail an outlines of my lectures as follows 👉.
 
 ## Discussion 1
 
 Basic theory of differential and difference equations
 
-{{< figure src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
+## Discussion 2
 
-## Get Started
+Simplest analytical examples of the Solow growth model in both continuous and discrete time
 
 - 👉 [**Create a new site**](https://wowchemy.com/templates/)
 - 📚 [**Personalize your site**](https://wowchemy.com/docs/)
