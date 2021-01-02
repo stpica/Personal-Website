@@ -1,6 +1,6 @@
 ---
-title: EC702
-subtitle: First-year Ph.D. level Macroeconomics
+title: EC702 (Graduate-level Macroeconomics)
+subtitle: First-year Ph.D. level Macro
 
 # Summary for listings and search engines
 summary: Teaching Assistant for the Ph.D. level Macroeconomics class. Fall 2019, Fall 2018, Fall 2017.
