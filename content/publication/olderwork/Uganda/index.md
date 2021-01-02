@@ -41,7 +41,7 @@ summary: "Households’ income fluctuations in poor countries call for risk smoo
 tags: [Incomplete Markets, Consumption Insurance, Household Survey]
 
 # Display this page in the Featured widget?
-featured_mod: true
+# featured: true
 
 # Custom links (uncomment lines below)
 # links:
