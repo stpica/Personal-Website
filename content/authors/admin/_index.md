@@ -19,7 +19,7 @@ bio: My research interests include monetary policy, the housing market, and cent
 # Interests to show in About widget
 interests:
 - Monetary Policy
-- Housing Market
+- Real Estate
 # - Central Banks' Communications
 
 # Education to show in About widget
@@ -70,7 +70,7 @@ social:
 #   link: media/CV_Pica.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "stpica@bu.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
