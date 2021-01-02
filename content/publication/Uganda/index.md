@@ -7,6 +7,7 @@ title: "Food Versus Non-Food Consumption Insurance in Uganda"
 authors:
 - admin
 
+selected: true
 
 # Author notes (optional)
 # author_notes:
