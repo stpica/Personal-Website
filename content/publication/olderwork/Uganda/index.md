@@ -29,6 +29,7 @@ publication_types: ["7"]
 # publication: In *Wowchemy Conference*
 # publication_short: In *ICW*
 
+# Publication name and optional abbreviated publication name.
 publication: Master Thesis CEMFI No. 1601 
 publication_short:
 
