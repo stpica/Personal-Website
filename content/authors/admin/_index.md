@@ -79,7 +79,7 @@ highlight_name: true
 
 I am a Ph.D. candidate in the [Boston University Economics Department](http://www.bu.edu/econ/).
 
-My research focuses on macroeconomics. My fields of interest are monetary policy, real estate, and household finance.
+My research focuses on macroeconomics. My fields of interest are monetary policy, real estate, and household finance. A complete list of my research projects is outlined in my [research page](https://www.stefanopica.com/research/).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_Pica.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
 
