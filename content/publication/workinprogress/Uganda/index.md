@@ -8,8 +8,8 @@ authors:
 - admin
 
 # Author notes (optional)
-author_notes:
-- "Last updated: September 2016"
+# author_notes:
+# - "Last updated: September 2016"
 
 date: "2016-09-01T00:00:00Z"
 doi: ""
@@ -24,9 +24,6 @@ doi: ""
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-# publication: In *Wowchemy Conference*
-# publication_short: In *ICW*
-
 publication: Master Thesis CEMFI No. 1601 
 publication_short: Master Thesis CEMFI No. 1601
 
