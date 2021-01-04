@@ -1,17 +1,15 @@
 ---
 title: "Food Versus Non-Food Consumption Insurance in Uganda"
-
+subtitle: "Master Thesis CEMFI No. 1601"
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
 
-
 # Author notes (optional)
-# author_notes:
-# - "Equal contribution"
-# - "Equal contribution"
+author_notes:
+- "Last updated: September 2016"
 
 date: "2016-09-01T00:00:00Z"
 doi: ""
