@@ -6,7 +6,7 @@ subtitle:
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- [Alden Porter](http://aldenporter.com/)
+- and [Alden Porter](http://aldenporter.com/)
 # - Alden Porter
 
 # Author notes (optional)
