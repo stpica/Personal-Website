@@ -18,6 +18,7 @@ bio: My research interests include monetary policy, the housing market, and cent
 
 # Interests to show in About widget
 interests:
+- Macroeconomics
 - Monetary Policy
 - Real Estate
 # - Central Banks' Communications
@@ -78,12 +79,10 @@ highlight_name: true
 
 I am a Ph.D. candidate in the [Boston University Economics Department](http://www.bu.edu/econ/).
 
-My research focuses on the interaction between monetary policy and the housing market, using household surveys to inform models. I am also interested in uncovering the effects of central banks’ communications on the macroeconomy using text analysis. You can find the list of my research projects in my [research page](https://www.stefanopica.com/research/).
+My research focuses on macroeconomics. My fields of interest are monetary policy, real estate, and household finance.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_Pica.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
 
-<!-- I am also interested in uncovering the effects of central banks’ communications on the macroeconomy using text analysis. -->
-
-<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_Pica.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
+<!-- My research focuses on the interaction between monetary policy and the housing market, using household surveys to inform models. I am also interested in uncovering the effects of central banks’ communications on the macroeconomy using text analysis. You can find the list of my research projects in my [research page](https://www.stefanopica.com/research/). -->
 
 <!-- I have [teaching](https://stpica.github.io/teaching/) experience at the graduate level as instructor of the first-year PhD macroeconomics course at Boston University. -->
