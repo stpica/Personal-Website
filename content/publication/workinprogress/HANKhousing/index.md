@@ -60,7 +60,7 @@ url_video: ''
 image:
   caption: 'New mortgages reaction to high-frequency monetary policy shocks using Jorda projection method'
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
