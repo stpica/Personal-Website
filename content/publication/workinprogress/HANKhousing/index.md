@@ -31,10 +31,10 @@ publication_types: ["3"]
 publication:
 publication_short: Job Market Paper
 
-abstract: What's the role of housing market institutions in the transmission mechanism of monetary policy across European countries? Existing evidence point to the importance of hand-to-mouth shares and homeownership rates in explaining heterogeneity in reactions of monetary policy across Europe. I build an heterogenous-agents New Keynesian model to shed light on this issue.
-
+abstract: What's the role of housing market institutions in the transmission mechanism of monetary policy across European countries? It is well known in the literature that the transmission of monetary policy to aggregate consumption across countries in Europe displays a high degree of heterogeneity, with Spain reacting about 10 times more than Germany. As to the sources of such heterogeneity, however, there is no common agreement among scholars. In this research project, I study how the housing and mortgage markets affect the monetary transmission mechanism in Europe. I specifically focus on the role of homeownership rates, a feature of the housing market that is strongly heterogenous across countries and that has been largely ignored by the existing literature.
+ 
 # Summary. An optional shortened abstract.
-summary: What's the role of housing market institutions in the transmission mechanism of monetary policy across European countries? It is well known in the literature that the transmission of monetary policy to aggregate consumption across countries in Europe displays a high degree of heterogeneity, with Spain reacting about 10 times more than Germany. As to the sources of such heterogeneity, however, there is no common agreement among scholars. In this research project, I study how the housing and mortgage markets affect the monetary transmission mechanism in Europe. I specifically focus on the role of homeownership rates, a feature of the housing market that is strongly heterogenous across countries and that has been largely ignored by the existing literature.
+summary: What's the role of housing market institutions in the transmission mechanism of monetary policy across European countries? Existing evidence point to the importance of hand-to-mouth shares and homeownership rates in explaining heterogeneity in reactions of monetary policy across Europe. I build an heterogenous-agents New Keynesian model to shed light on this issue.
 
 tags: [Monetary Policy, Housing Markets, Mortgage Markets, VAR Analysis, Household Survey]
 
@@ -60,7 +60,7 @@ url_video: ''
 image:
   caption: 'New mortgages reaction to high-frequency monetary policy shocks using Jorda projection method'
   focal_point: ""
-  preview_only: true
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
