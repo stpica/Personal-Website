@@ -1,5 +1,5 @@
 ---
-title: "Monetary Policy and Homeownership Rates in Europe"
+title: "Housing, Mortgages, & Monetary Policy in Europe"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -12,7 +12,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2020-12-01T00:00:00Z"
+date: "2021-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -29,12 +29,12 @@ publication_types: ["3"]
 # publication_short: In *ICW*
 
 publication:
-publication_short:
+publication_short: Job Market Paper
 
-abstract: How does the transmission mechanism of monetary policy work through the housing market in Europe? Existing evidence point to the importance of hand-to-mouth shares and homeownership rates in explaining heterogeneity in reactions of monetary policy across Europe. I build an heterogenous-agents New Keynesian model to shed light on this issue.
+abstract: What's the role of housing market institutions in the transmission mechanism of monetary policy across European countries? Existing evidence point to the importance of hand-to-mouth shares and homeownership rates in explaining heterogeneity in reactions of monetary policy across Europe. I build an heterogenous-agents New Keynesian model to shed light on this issue.
 
 # Summary. An optional shortened abstract.
-summary: How does the transmission mechanism of monetary policy work through the housing market in Europe? Existing evidence point to the importance of hand-to-mouth shares and homeownership rates in explaining heterogeneity in reactions of monetary policy across Europe. I build an heterogenous-agents New Keynesian model to shed light on this issue.
+summary: What's the role of housing market institutions in the transmission mechanism of monetary policy across European countries? It is well known in the literature that the transmission of monetary policy to aggregate consumption across countries in Europe displays a high degree of heterogeneity, with Spain reacting about 10 times more than Germany. As to the sources of such heterogeneity, however, there is no common agreement among scholars. In this research project, I study how the housing and mortgage markets affect the monetary transmission mechanism in Europe. I specifically focus on the role of homeownership rates, a feature of the housing market that is strongly heterogenous across countries and that has been largely ignored by the existing literature.
 
 tags: [Monetary Policy, Housing Markets, Mortgage Markets, VAR Analysis, Household Survey]
 
