@@ -89,7 +89,7 @@ show_related = {book = true, page = true, post = true, project = true, publicati
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "stpica@bu.edu"
-phone = ""
+phone = "+1 (617) 749-5011"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
