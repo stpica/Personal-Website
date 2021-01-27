@@ -32,21 +32,16 @@
   weight = 40
 
 [[main]]
-  name = "HTML"
-  #  url = "media/CV_Pica.pdf"
-  # url = "media/CV_Pica.html"
-  url = "https://www.stefanopica.com/media/cv_pica"
+  name = "PDF"
+   url = "media/CV_Pica.pdf"
   parent = "cv"
   weight = 40
 
 [[main]]
-  name = "PDF"
-   url = "media/CV_Pica.pdf"
-  #  url = "media/CV_Pica.html"
+  name = "HTML (mobile-friendly)"
+  url = "media/CV_Pica.html"
   parent = "cv"
   weight = 40
-
-
 
 
 
