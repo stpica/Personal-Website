@@ -20,7 +20,8 @@
 
 [[main]]
    name = "CV"
-   url = "media/CV_Pica.pdf"
+  #  url = "media/CV_Pica.pdf"
+   url = "media/CV_Pica.html"
    weight = 40
 
 
