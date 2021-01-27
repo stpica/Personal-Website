@@ -16,7 +16,6 @@
 [[main]]
   name = "Teaching"
   url = "teaching/"
-  target="_blank"
   weight = 30
 
 # [[main]]
@@ -35,7 +34,8 @@
 [[main]]
   name = "HTML"
   #  url = "media/CV_Pica.pdf"
-   url = "media/CV_Pica.html"
+  # url = "media/CV_Pica.html"
+  url = "https://www.stefanopica.com/media/cv_pica"
   parent = "cv"
   weight = 40
 
@@ -46,23 +46,6 @@
   parent = "cv"
   weight = 40
 
-# [[main]]
-#   name = "Projects"
-#   url = "#projects"
-#   identifier = "projects"
-#   weight = 1
-  
-# [[main]]
-#   name = "Project 1"
-#   url = "#projects1"
-#   parent = "projects"
-#   weight = 1
-
-# [[main]]
-#   name = "Project 2"
-#   url = "#projects1"
-#   parent = "projects"
-#   weight = 2
 
 
 
