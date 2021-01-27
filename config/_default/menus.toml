@@ -18,11 +18,50 @@
   url = "teaching/"
   weight = 30
 
+# [[main]]
+#    name = "CV"
+#   #  url = "media/CV_Pica.pdf"
+#    url = "media/CV_Pica.html"
+#    weight = 40
+
 [[main]]
-   name = "CV"
+  name = "CV"
+  #  url = "media/CV_Pica.pdf"
+  #  url = "media/CV_Pica.html"
+  identifier = "cv"
+  weight = 40
+
+[[main]]
+  name = "HTML"
   #  url = "media/CV_Pica.pdf"
    url = "media/CV_Pica.html"
-   weight = 40
+  parent = "cv"
+  weight = 40
+
+[[main]]
+  name = "PDF"
+   url = "media/CV_Pica.pdf"
+  #  url = "media/CV_Pica.html"
+  parent = "cv"
+  weight = 40
+
+# [[main]]
+#   name = "Projects"
+#   url = "#projects"
+#   identifier = "projects"
+#   weight = 1
+  
+# [[main]]
+#   name = "Project 1"
+#   url = "#projects1"
+#   parent = "projects"
+#   weight = 1
+
+# [[main]]
+#   name = "Project 2"
+#   url = "#projects1"
+#   parent = "projects"
+#   weight = 2
 
 
 
