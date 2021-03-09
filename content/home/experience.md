@@ -1,4 +1,4 @@
-<!-- ---
+---
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
@@ -53,4 +53,4 @@ experience:
     date_start: '2014-04-01'
     date_end: '2014-06-01'
     description:
---- -->
+---
