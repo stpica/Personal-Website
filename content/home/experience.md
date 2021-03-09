@@ -54,7 +54,7 @@ experience:
   #   date_end: ''
   #   description:
 
-  - title: 'Messaggeri della Conoscenza' Visiting Scholar
+  - title: Visiting Scholar
     company: Capital Markets Cooperative Research Centre 
     company_url: 'https://cmcrc.com/'
     location: Sydney
