@@ -54,11 +54,11 @@ experience:
   #   date_end: ''
   #   description:
 
-  - title: "Messaggeri della Conoscenza" Visiting Scholar
-    company: Capital Markets Cooperative Research Centre 
-    company_url: 'https://cmcrc.com/'
-    location: Sydney
-    date_start: '2014-04-01'
-    date_end: '2014-06-01'
-    description:
+  # - title: "Messaggeri della Conoscenza" Visiting Scholar
+  #   company: Capital Markets Cooperative Research Centre 
+  #   company_url: 'https://cmcrc.com/'
+  #   location: Sydney
+  #   date_start: '2014-04-01'
+  #   date_end: '2014-06-01'
+  #   description:
 ---
