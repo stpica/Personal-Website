@@ -9,9 +9,9 @@ superuser: true
 role: Ph.D. Candidate in Economics, Boston University
 
 # Organizations/Affiliations to show in About widget
-organizations:
-- name: Boston University
-  url: http://www.bu.edu/econ/
+# organizations:
+# - name: Boston University
+#   url: http://www.bu.edu/econ/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include monetary policy, the housing market, and central banks' communications.
