@@ -25,7 +25,7 @@ experience:
   - title: Summer Research Graduate (expected)
     company: European Central Bank 
     company_url: 'https://www.ecb.europa.eu/pub/economic-research/programmes/graduate/html/index.en.html'
-    location: Madrid
+    location: Frankfurt
     date_start: '2021-05-15'
     date_end: '2021-08-14'
     description:
