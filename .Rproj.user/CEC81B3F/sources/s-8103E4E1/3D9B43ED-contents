@@ -1,0 +1,15 @@
+######################################################################
+# This R file reads annualized EURIBOR monthly data and aggregates it to quarterly
+######################################################################
+
+
+######################
+###### GET DATA ######
+######################
+data <- read_csv(paste0(data_raw, "/ECB/EURIBOR", ".csv"))
+euribor <- ts(data$s1, start=c(1994, 1), frequency=12)
+euribor <- apply.quarterly(as.xts(euribor),FUN=mean)
+time(euribor) <- as.yearqtr(time(euribor))
+#plot(euribor, main="EURIBOR")
+#keep(euribor, sure = TRUE)
+

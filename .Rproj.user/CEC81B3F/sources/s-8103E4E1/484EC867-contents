@@ -1,0 +1,118 @@
+######################################################################
+# This R file reads the quarterly data, de-seasonalize mortgages, and
+# outputs similar data
+######################################################################
+
+rm(list = ls()) #will clear all objects includes hidden objects.
+
+######################
+##### DIRECTORIES ####
+######################
+code_R <- "/Users/stefanopica/Dropbox/Research/HMMPE/code/R"
+data_raw <- "/Users/stefanopica/Dropbox/Research/HMMPE/data/A_raw"
+data_intermediate <- "/Users/stefanopica/Dropbox/Research/HMMPE/data/B_intermediate"
+setwd(code_R)
+
+######################
+### LOAD LIBRARIES ###
+######################
+library("tidyverse") #filter() and lag() are conflicts
+library("readxl") #for EMF data reading
+library("seasonal") #de-seasonalize EMF data
+library("xts") #express time series data in xts format for better handling
+library("eurostat") #to download eurostat data
+# library("zoo") #this is required by the xts library
+# library("rmaf")
+# library("gdata")
+# library("openxlsx")
+# library("ggplot2")
+# library("rvest")
+# library("knitr")
+# library("Quandl")
+
+######################
+#### RUN R FILES #####
+######################
+source("Eurostat/get_Eurostat.R") #eurostat series
+source("OECD/getOECD_housing.R") #oecd series
+source("EMF/get_table.R") #mtgs
+source("ECB/get_EURIBOR.R") #euribor
+source("ECB/get_shadowrate.R") #shadowrate
+source("ECB/get_EA_MPD.R") #OIS
+
+data <- merge.xts(eurostat,housingOECD,mtgs,euribor,shadowrate,OIS,all=TRUE)
+data <- data["1990/"]
+write.zoo(data, sep = ",", na = "", index.name = "time", file = paste0(data_intermediate, "/data_quarterly", ".csv"))
+
+
+
+# plot.xts(x=data[,"GDPDEF"], xlab = "Time", ylab = "Price", main = "Price Index", major.ticks= "years", minor.ticks = FALSE, col = "red")
+# lines(x=data[,"HICP"], col = "darkgreen")
+# legend(x = 'topleft', legend = c("GDP deflator", "HICP"), lty = 1, col = c("red", "darkgreen"))
+#
+# plot.xts(x=data$Inflation_GDP, xlab = "Time", ylab = "Price", main = "Price Index", major.ticks= "years", minor.ticks = FALSE, col = "red")
+# lines(x=data$Inflation_HICP, col = "darkgreen")
+
+
+ # ggplot(data = rates, aes(x = Index)) +
+#   geom_line(aes(y=OIS_1M_ME),color = "blue", size = 1) +
+#   geom_line(aes(y=OIS_1M_PR),color="red",size=1) +
+#   labs(title="1 Month OIS",x="Year",y="%") +
+#   theme_bw() +
+#   scale_colour_manual("",values = c("OIS_1M_PR"="red","OIS_1M_ME"="blue"))
+
+# data <- read_csv(paste0(data_intermediate, "/data_quarterly", ".csv"))
+# time=as.yearqtr(data$date[1:52], format="%Y q%q")
+#
+# # get and plot data to deseasonalize
+# data$mtgs_gross_log = log(data$mtgs_gross)
+# mtgs_gross_DE = ts(data$mtgs_gross_log[1:52], start=c(2007, 1), frequency=4)
+# plot(time, mtgs_gross_DE, type="l", main="Gross Mortgages, Germany")
+# mtgs_gross_ES = ts(data$mtgs_gross_log[(52*2+1):(52*3)], start=c(2007, 1), frequency=4)
+# plot(time, mtgs_gross_ES, type="l", main="Gross Mortgages, Spain")
+# mtgs_gross_FR = ts(data$mtgs_gross_log[(52*3+1):(52*4)], start=c(2007, 1), frequency=4)
+# plot(time, mtgs_gross_FR, type="l", main="Gross Mortgages, France")
+# mtgs_gross_IT = ts(data$mtgs_gross_log[(52*4+1):(52*5)], start=c(2007, 1), frequency=4)
+# plot(time, mtgs_gross_IT, type="l", main="Gross Mortgages, Italy")
+#
+# # OIS 1M
+# OIS1M = ts(data$OIS_1M[1:52], start=c(2007, 1), frequency=4)
+# plot(time, OIS1M, type="l", main="1 Month OIS")
+#
+#
+# # deseasonalize mortgages
+# mtgs_gross_des_DE <- seas(mtgs_gross_DE)
+# summary(mtgs_gross_des_DE)
+# # final(mtgs_gross_des_DE)
+# germany=data.frame(time, mtgs_gross_DE, final(mtgs_gross_des_DE))
+# # ggplot(germany, aes(time), main="Gross Mortgages, Germany") +  # basic graphical object
+# #   geom_line(aes(y=mtgs_gross_DE), colour="black") +  # first layer
+# #   geom_line(aes(y=final(mtgs_gross_des_DE)), colour="red")  # second layer
+# mtgs_gross_des_ES <- seas(mtgs_gross_ES)
+# plot(mtgs_gross_des_DE, main="Gross Mortgages, Germany")
+# summary(mtgs_gross_des_ES)
+# # final(mtgs_gross_des_ES)
+# plot(mtgs_gross_des_ES, main="Gross Mortgages, Spain")
+# mtgs_gross_des_FR <- seas(mtgs_gross_FR)
+# summary(mtgs_gross_des_FR)
+# # final(mtgs_gross_des_FR)
+# plot(mtgs_gross_des_FR, main="Gross Mortgages, France")
+# mtgs_gross_des_IT <- seas(mtgs_gross_IT)
+# summary(mtgs_gross_des_IT)
+# # final(mtgs_gross_des_IT)
+# plot(mtgs_gross_des_IT, main="Gross Mortgages, Italy")
+
+
+
+# try ma.filter, I guess it does not work as well though
+#lag=qn(mtgs_gross_DE) #optimal MA lag
+#mtgs_gross_des2_DE <- ma.filter(mtgs_gross_DE, period=4, q=lag, seasonal=TRUE, plot=TRUE)
+
+# put new variables back into the original dataframe
+# data$mtgs_gross_des = NA
+# data$mtgs_gross_des[1:52] = final(mtgs_gross_des_DE)
+# data$mtgs_gross_des[(52*2+1):(52*3)] = final(mtgs_gross_des_ES)
+# data$mtgs_gross_des[(52*3+1):(52*4)] = final(mtgs_gross_des_FR)
+# data$mtgs_gross_des[(52*4+1):(52*5)] = final(mtgs_gross_des_IT)
+# data$euribor <- NA
+# data$euribor[1:52] <- euribor
