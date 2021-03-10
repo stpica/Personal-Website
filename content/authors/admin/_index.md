@@ -97,7 +97,7 @@ I am a Ph.D. candidate in the [Boston University Economics Department](http://ww
 My research focuses on macroeconomics. My fields of interest are monetary policy, real estate, and household finance.
 <!-- A complete list of my research projects is outlined in my [research page](https://www.stefanopica.com/research/). -->
 
-***News:*** During Summer 2021, I will be visiting the European Central Bank as part of the [Summer Research Graduate Programme](https://www.ecb.europa.eu/pub/economic-research/programmes/graduate/html/index.en.html).
+***[News]:*** During Summer 2021, I will be visiting the European Central Bank as part of the [Summer Research Graduate Programme](https://www.ecb.europa.eu/pub/economic-research/programmes/graduate/html/index.en.html).
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_Pica.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}. -->
 
