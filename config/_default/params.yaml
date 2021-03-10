@@ -121,7 +121,7 @@ breadcrumb:
   page_types:
     book: true
 comments:
-  provider: '0'
+  provider: ''
   commentable:
     post: true
     book: true
