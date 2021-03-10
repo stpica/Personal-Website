@@ -26,15 +26,16 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+# publication: In *Wowchemy Conference*
+publication_short: Job Market Paper
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: What's the role of housing market institutions in the transmission mechanism of monetary policy across European countries? It is well known in the literature that the transmission of monetary policy to aggregate consumption across countries in Europe displays a high degree of heterogeneity, with Spain reacting about 10 times more than Germany. As to the sources of such heterogeneity, however, there is no common agreement among scholars. In this research project, I study how the housing and mortgage markets affect the monetary transmission mechanism in Europe. I specifically focus on the role of homeownership rates, a feature of the housing market that is strongly heterogenous across countries and that has been largely ignored by the existing literature.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: What's the role of housing market institutions in the transmission mechanism of monetary policy across European countries? Existing evidence point to the importance of hand-to-mouth shares and homeownership rates in explaining heterogeneity in reactions of monetary policy across Europe. I build an heterogenous-agents New Keynesian model to shed light on this issue.
 
-tags: []
+# tags: []
+tags: [Monetary Policy, Housing Markets, Mortgage Markets, VAR Analysis, Household Survey]
 
 # Display this page in the Featured widget?
 featured: true
@@ -56,7 +57,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'New mortgages reaction to high-frequency monetary policy shocks using Jorda projection method'
   focal_point: ""
   preview_only: true
 
