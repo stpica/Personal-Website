@@ -6,7 +6,7 @@ title: Stefano Pica
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate in Economics, Boston University
+role: Ph.D. Candidate in Economics Boston University
 
 # Organizations/Affiliations to show in About widget
 # organizations:
@@ -96,7 +96,9 @@ I am a Ph.D. candidate in the [Boston University Economics Department](http://ww
 
 My research focuses on macroeconomics. My fields of interest are monetary policy, real estate, and household finance. A complete list of my research projects is outlined in my [research page](https://www.stefanopica.com/research/).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_Pica.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
+
+
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_Pica.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}. -->
 
 <!-- My research focuses on the interaction between monetary policy and the housing market, using household surveys to inform models. I am also interested in uncovering the effects of central banks’ communications on the macroeconomy using text analysis. You can find the list of my research projects in my [research page](https://www.stefanopica.com/research/). -->
 
