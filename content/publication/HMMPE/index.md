@@ -66,7 +66,7 @@ image:
 #   Otherwise, set `projects: []`.
 # projects:
 # - example
-projects: [HFCSfacts]
+# projects: [HFCSfacts]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
