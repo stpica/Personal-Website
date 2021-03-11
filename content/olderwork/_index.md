@@ -1,6 +1,6 @@
 ---
-title: Older Work
-cms_exclude: true
+title: Publications
+cms_exclude: false
 
 # View.
 #   1 = List
