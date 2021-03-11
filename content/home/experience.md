@@ -62,6 +62,13 @@ experience:
     date_end: '2014-06-01'
     description:
 
+  - title: Erasmus Exchange Student
+    company: Goethe University
+    company_url: 'https://www.wiwi.uni-frankfurt.de/en/home.html'
+    location: Frankfurt
+    date_start: '2013-10-01'
+    date_end: '2014-02-01'
+    description:
 
   # - title: CEO
   #   company: GenCoin
