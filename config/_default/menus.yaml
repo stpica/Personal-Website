@@ -11,7 +11,7 @@ main:
     url: '#featured'
     weight: 20
   - name: Work in Progress
-    url: '#publications'
+    url: '#workinprogress'
     weight: 30
   - name: Visiting Positions
     url: '#experience'
