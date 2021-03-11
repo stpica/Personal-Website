@@ -8,8 +8,8 @@ authors:
 - admin
 
 # Author notes (optional)
-# author_notes:
-# - "Last updated: September 2016"
+author_notes:
+- "Last updated: September 2016"
 
 date: "2016-09-01T00:00:00Z"
 doi: ""
