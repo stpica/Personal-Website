@@ -5,7 +5,8 @@ title: "Housing, Mortgages, & Monetary Policy in Europe"
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- admin
+- Draft coming soon!
+# - admin
 # - Robert Ford
 
 # Author notes (optional)
@@ -44,6 +45,11 @@ featured: true
 # links:
 # - name: Custom Link
 #   url: http://example.org
+
+  # - icon_pack: fas
+  #   icon: bullhorn
+  #   name: 'VoxEU'
+  #   url: ''
 
 url_pdf: ''
 url_code: ''
