@@ -1,10 +1,10 @@
 ---
 title: Courses
-type: page
+# type: page
 
 header:
   caption: ""
   image: ""
 ---
 
-I teach the following courses:
+<!-- I teach the following courses: -->
