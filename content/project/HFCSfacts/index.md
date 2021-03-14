@@ -31,7 +31,7 @@ publication_types: ["0"]
 publication:
 publication_short:
 
-abstract: How much do European countries differ in terms of their housing and mortgage markets? I answer this question by making use of the HFCS - an harmonized household survey designed by the ECB. I find that the Loan-to-Value ratio distributions are pretty stable over time, and most notably - and contrary to previous evidence - very similar across countries. Differently, mortgage duration is cyclical and starkly different across countries. These facts are useful to inform models of the housing markets in Europe.
+# abstract: How much do European countries differ in terms of their housing and mortgage markets? I answer this question by making use of the HFCS - an harmonized household survey designed by the ECB. I find that the Loan-to-Value ratio distributions are pretty stable over time, and most notably - and contrary to previous evidence - very similar across countries. Differently, mortgage duration is cyclical and starkly different across countries. These facts are useful to inform models of the housing markets in Europe.
 
 # Summary. An optional shortened abstract.
 summary: How much do European countries differ in terms of their housing and mortgage markets? I answer this question by making use of the HFCS - an harmonized household survey designed by the ECB. I find that the Loan-to-Value ratio distributions are pretty stable over time, and most notably - and contrary to previous evidence - very similar across countries. Differently, mortgage duration is cyclical and starkly different across countries.
@@ -79,3 +79,7 @@ projects: []
 # slides: example
 slides: ""
 ---
+
+<h1>Abstract</h1>
+
+How much do European countries differ in terms of their housing and mortgage markets? I answer this question by making use of the HFCS - an harmonized household survey designed by the ECB. I find that the Loan-to-Value ratio distributions are pretty stable over time, and most notably - and contrary to previous evidence - very similar across countries. Differently, mortgage duration is cyclical and starkly different across countries. These facts are useful to inform models of the housing markets in Europe.

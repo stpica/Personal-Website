@@ -33,7 +33,7 @@ publication_types: ["0"]
 publication:
 publication_short:
 
-abstract: Which words matter the most in central bank communication? Making use of a rather unique European monetary policy decision setting, we build the first monetary policy dictionary. We train the dictionary on a new intra-day level return data, which allows us to precisely identify which phrases do the market mainly reacts to. As an application, we attempt to distinguish whether financial markets react to learning about current economic conditions or future bank actions.
+# abstract: Which words matter the most in central bank communication? Making use of a rather unique European monetary policy decision setting, we build the first monetary policy dictionary. We train the dictionary on a new intra-day level return data, which allows us to precisely identify which phrases do the market mainly reacts to. As an application, we attempt to distinguish whether financial markets react to learning about current economic conditions or future bank actions.
 
 # Summary. An optional shortened abstract.
 summary: Which words matter the most in central bank communication? Making use of a rather unique European monetary policy decision setting, we build the first monetary policy dictionary. We train the dictionary on a new intra-day level return data, which allows us to precisely identify which phrases do the market mainly reacts to.
@@ -93,12 +93,6 @@ projects: []
 slides: ""
 ---
 
-<!-- {{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+<h1>Abstract</h1>
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
+Which words matter the most in central bank communication? Making use of a rather unique European monetary policy decision setting, we build the first monetary policy dictionary. We train the dictionary on a new intra-day level return data, which allows us to precisely identify which phrases do the market mainly reacts to. As an application, we attempt to distinguish whether financial markets react to learning about current economic conditions or future bank actions.
