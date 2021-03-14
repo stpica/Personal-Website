@@ -1,5 +1,5 @@
 ---
-title: teaching
+title: event
 
 # View.
 #   1 = List
