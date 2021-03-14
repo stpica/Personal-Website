@@ -18,7 +18,7 @@ summary: Teaching Assistant for the Ph.D. level Macroeconomics class. Fall 2019,
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2017-09-01T00:00:00Z"
-date_end: "2019-12-10T00:30:00Z"
+date_end: "2019-12-10T00:00:00Z"
 # all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -40,7 +40,7 @@ featured: false
 image:
   caption: ''
   focal_point: ""
-  placement: 2
+  placement: 
   preview_only: false
 
 links:
