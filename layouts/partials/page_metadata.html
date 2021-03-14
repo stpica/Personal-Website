@@ -13,10 +13,10 @@
   {{ end }}
   {{ end }}
 
-  {{ if not (in (slice "page") $page.Type) }}
+  {{ if not (in (slice "event" "page") $page.Type) }}
   <span class="article-date">
     {{ $date := $page.Lastmod.Format site.Params.date_format }}
-    {{ if eq $page.Type "publication" }}
+    {{ if eq $page.Type "event" "publication" }}
       {{ $date = $page.Date.Format (site.Params.publications.date_format | default "January, 2006") }}
     {{ else }}
       {{ if ne $page.Params.Lastmod $page.Params.Date }}
