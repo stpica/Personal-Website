@@ -9,10 +9,10 @@ summary: "Households’ income fluctuations in poor countries call for risk smoo
 # projects: []
 
 # Date published
-date: "2016-09-00T00:00:00Z"
+date: "2016-09-01T00:00:00Z"
 
 # Date updated
-lastmod: "2016-09-00T00:00:00Z"
+lastmod: "2016-09-01T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
