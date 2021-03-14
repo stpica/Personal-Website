@@ -27,8 +27,8 @@ date_end: "2019-12-10T10:30:00Z"
 # authors: []
 # tags: []
 
-authors:
-- admin
+# authors:
+# - admin
 
 tags:
 - Macroeconomics
@@ -38,8 +38,10 @@ tags:
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+  caption: ''
+  focal_point: ""
+  placement: 2
+  preview_only: false
 
 links:
   - icon_pack: fab
@@ -72,6 +74,8 @@ links:
 # projects:
 # - internal-project
 ---
+
+![featured.jpg](img/teaching.jpg)
 
 I have been teaching assistant to professor [Pascual Restrepo](http://pascual.scripts.mit.edu/) and professor [Stephen Terry](https://sites.google.com/site/stephenjamesterry/) during Fall 2019, Fall 2018, and Fall 2017.
 
