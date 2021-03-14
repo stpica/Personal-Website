@@ -15,7 +15,7 @@ subtitle: First-year Ph.D. level Macro at Boston University
 # doi: ""
 
 # Date updated
-lastmod: "2019-12-01T00:00:00Z"
+# lastmod: "2019-12-01T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2016-09-01T00:00:00Z"
@@ -85,7 +85,7 @@ projects: []
 slides: ""
 ---
 
-<center> <img src="/img/teaching.jpg" width="600" height="50" /> </center>
+<center> <img src="/img/teaching.jpg" width="700" height="50" /> </center>
 
 I have been teaching assistant to professor [Pascual Restrepo](http://pascual.scripts.mit.edu/) and professor [Stephen Terry](https://sites.google.com/site/stephenjamesterry/) during Fall 2019, Fall 2018, and Fall 2017.
 
