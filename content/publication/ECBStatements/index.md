@@ -1,13 +1,13 @@
 ---
 title: "Future Policy and Information Dissemination: A Natural Language Processing Approach"
-subtitle:
+subtitle: joint with [Alden Porter](http://aldenporter.com/)
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
-authors:
+# authors:
 # - admin
 # - Alden Porter
-- joint with [Alden Porter](http://aldenporter.com/)
+# - joint with [Alden Porter](http://aldenporter.com/)
 
 # Author notes (optional)
 # author_notes:
