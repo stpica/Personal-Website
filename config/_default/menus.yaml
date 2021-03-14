@@ -17,7 +17,7 @@ main:
     url: '#experience'
     weight: 40
   - name: Teaching
-    url: 'teaching/'
+    url: '#event'
     weight: 50
   - name: CV
     # url: 'CV/CV_Pica.pdf'
