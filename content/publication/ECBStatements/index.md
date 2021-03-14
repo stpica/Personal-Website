@@ -5,9 +5,9 @@ subtitle:
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- admin
-- Alden Porter
-# - and [Alden Porter](http://aldenporter.com/)
+# - admin
+# - Alden Porter
+- joint with [Alden Porter](http://aldenporter.com/)
 
 # Author notes (optional)
 # author_notes:
@@ -48,14 +48,25 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: 'research/poster/PP_poster.pdf'
-url_project: ''
-url_slides: 'research/slides/PP_Spring2020.pdf'
-url_source: ''
-url_video: ''
+links:
+  - icon_pack: fas
+    icon: file-image
+    name: 'Poster'
+    url: 'research/ECBStatements/PP_poster.pdf'
+  - icon_pack: fas
+    icon: images
+    name: 'Slides'
+    url: 'research/ECBStatements/PP_Spring2020.pdf'
+
+
+# url_pdf: ''
+# url_code: ''
+# url_dataset: ''
+# url_poster: 'research/poster/PP_poster.pdf'
+# url_project: ''
+# url_slides: 'research/slides/PP_Spring2020.pdf'
+# url_source: ''
+# url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
