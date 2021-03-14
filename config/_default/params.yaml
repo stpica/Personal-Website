@@ -118,7 +118,6 @@ publications:
   date_format: January 2006
   citation_style: apa
 projects:
-  date_format: January 2006
   post_view: 2
   publication_view: 2
   talk_view: 2
@@ -146,7 +145,7 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: ''
+  provider: '2'
   api_key: ''
   zoom: 15
 marketing:
