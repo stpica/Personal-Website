@@ -11,11 +11,11 @@ subtitle: First-year Ph.D. level Macro at Boston University
 # author_notes:
 # - "Last updated: September 2016"
 
-# date: "2016-09-01T00:00:00Z"
+date: "2019-12-15T00:00:00Z"
 # doi: ""
 
 # Date updated
-# lastmod: "2019-12-01T00:00:00Z"
+lastmod: "2019-12-15T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2016-09-01T00:00:00Z"
