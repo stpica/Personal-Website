@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Summer Research Graduate (expected)
+  - title: Summer Research Graduate
     company: European Central Bank 
     company_url: 'https://www.ecb.europa.eu/pub/economic-research/programmes/graduate/html/index.en.html'
     location: Frankfurt
