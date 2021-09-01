@@ -1,5 +1,5 @@
 ---
-title: "Housing, Mortgages, & Monetary Policy in Europe"
+title: "Housing Markets & The Heterogenous Transmission of Monetary Policy Across the Euro Area"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -14,7 +14,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2021-03-01T00:00:00Z"
+date: "2021-08-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -30,13 +30,13 @@ publication_types: ["0"]
 # publication: In *Wowchemy Conference*
 publication_short: Job Market Paper
 
-abstract: What's the role of housing market institutions in the transmission mechanism of monetary policy across European countries? It is well known in the literature that the transmission of monetary policy to aggregate consumption across countries in Europe displays a high degree of heterogeneity, with Spain reacting about 10 times more than Germany. As to the sources of such heterogeneity, however, there is no common agreement among scholars. In this research project, I study how the housing and mortgage markets affect the monetary transmission mechanism in Europe. I specifically focus on the role of homeownership rates, a feature of the housing market that is strongly heterogenous across countries and that has been largely ignored by the existing literature.
+abstract: Monetary policy has heterogeneous effects across Euro Area countries in terms of aggregate consumption, price-to-rent, mortgage issuance, and mortgage rates. I show strong correlations between cross-country monetary policy effectiveness and housing and mortgage market institutions, namely the share of adjustable-rate mortgages (ARM) and the homeownership rate (HoR). I incorporate these features into a currency-union New Keynesian model with rich household balance sheets, which I calibrate to Spain and the Euro Area. My results reveal that higher shares in ARM are responsible for the sizable movements in mortgage-related variables, due to a strong pass-through to mortgage rates. On the other hand, fluctuations in house prices and price-to-rent ratios are determined by the HoR, as households with higher average ownership utility tend to change tenure status more willingly. ARM shares and the HoR interact to produce bigger swings in aggregate consumption.
 
 # Summary. An optional shortened abstract.
-summary: What's the role of housing market institutions in the transmission mechanism of monetary policy across European countries? In this research project, I specifically focus on the role of homeownership rates - a feature of the housing market that is strongly heterogenous across countries and that has been largely ignored by the existing literature. I build an open-economy New Keynesian model to quantify the role of country-level housing institutional details in the monetary transmission mechanism.
+summary: Monetary policy has heterogeneous effects across Euro Area countries in terms of aggregate consumption, price-to-rent, mortgage issuance, and mortgage rates. I show strong correlations between cross-country monetary policy effectiveness and housing and mortgage market institutions, namely the share of adjustable-rate mortgages (ARM) and the homeownership rate (HoR). I incorporate these features into a currency-union New Keynesian model with rich household balance sheets, which I calibrate to Spain and the Euro Area. My results reveal that higher shares in ARM are responsible for the sizable movements in mortgage-related variables, due to a strong pass-through to mortgage rates. On the other hand, fluctuations in house prices and price-to-rent ratios are determined by the HoR, as households with higher average ownership utility tend to change tenure status more willingly. ARM shares and the HoR interact to produce bigger swings in aggregate consumption.
 
 # tags: []
-tags: [Monetary Policy, Housing Markets, Mortgage Markets, VAR Analysis, Household Survey]
+tags: [Monetary Policy, Housing Markets, Mortgage Markets, VAR Analysis, Household Survey, New Keynesian]
 
 # Display this page in the Featured widget?
 featured: true
