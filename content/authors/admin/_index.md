@@ -95,6 +95,9 @@ highlight_name: true
 I am a Ph.D. candidate in the [Boston University Economics Department](http://www.bu.edu/econ/).
 
 My research focuses on macroeconomics. My fields of interest are monetary policy, real estate, and household finance.
+
+I will be on the 2022 Job Market and available for interviews at the virtual EJME and ASSA.
+
 <!-- A complete list of my research projects is outlined in my [research page](https://www.stefanopica.com/research/). -->
 
 <!-- I am currently visiting the European Central Bank as part of the [Summer Research Graduate Programme](https://www.ecb.europa.eu/pub/economic-research/programmes/graduate/html/index.en.html). -->
