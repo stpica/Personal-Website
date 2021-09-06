@@ -96,7 +96,7 @@ I am a Ph.D. candidate in the [Boston University Economics Department](http://ww
 
 My research focuses on macroeconomics. My fields of interest are monetary policy, real estate, and household finance.
 
-I will be on the 2022 Job Market and available for interviews at the virtual EJME and ASSA.
+I will be on the upcoming Job Market cycle and available for interviews at the EJME 2021 and the ASSA 2022.
 
 <!-- A complete list of my research projects is outlined in my [research page](https://www.stefanopica.com/research/). -->
 
