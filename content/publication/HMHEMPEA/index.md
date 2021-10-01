@@ -5,7 +5,7 @@ title: "Housing Markets and the Heterogenous Effects of Monetary Policy Across t
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Job Market Paper
+- Stefano Pica
 # - admin
 # - Robert Ford
 
@@ -14,7 +14,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2021-08-01T00:00:00Z"
+date: "2021-10-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
