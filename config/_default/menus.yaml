@@ -32,7 +32,7 @@ main:
     parent: cv
     weight: 60
   - name: HTML (mobile-friendly)
-    url: 'CV/CV_Pica.html'
+    url: 'CV/CV_Pica2.html'
     parent: cv
     weight: 60
   # - name: Home
