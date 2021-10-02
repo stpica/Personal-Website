@@ -51,11 +51,11 @@ featured: true
   #   name: 'VoxEU'
   #   url: ''
 
-links:
-  - icon_pack: fas
-    icon: file-pdf
-    name: 'PDF'
-    url: 'research/HMHEMPEA/HMHEMPEA_Pica.pdf'
+# links:
+#   - icon_pack: fas
+#     icon: file-pdf
+#     name: 'PDF'
+#     url: 'research/HMHEMPEA/HMHEMPEA_Pica.pdf'
 
 url_pdf: ''
 url_code: ''
