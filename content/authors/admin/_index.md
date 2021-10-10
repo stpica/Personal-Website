@@ -14,7 +14,7 @@ role: Ph.D. Candidate in Economics Boston University
 #   url: http://www.bu.edu/econ/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an applied macroeconomist interested in monetary policy and household finance.
+bio: I am an applied macroeconomist interested in monetary policy and household finance, and real estate.
 
 # Interests to show in About widget
 interests:
@@ -95,7 +95,7 @@ highlight_name: true
 
 I am a Ph.D. candidate in the [Boston University Economics Department](http://www.bu.edu/econ/).
 
-My research focuses on macroeconomics. My fields of interest are monetary policy, household finance, and real estate.
+My research focuses on macroeconomics. My fields of interest are monetary policy and household finance.
 
 I will be on the upcoming Job Market cycle and available for interviews at the EJME 2021 and at the ASSA 2022.
 
