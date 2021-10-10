@@ -14,14 +14,14 @@ role: Ph.D. Candidate in Economics Boston University
 #   url: http://www.bu.edu/econ/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an applied macroeconomist interested in monetary policy, household finance, and real estate.
+bio: I am an applied macroeconomist interested in monetary policy and household finance.
 
 # Interests to show in About widget
 interests:
 - Macroeconomics
 - Monetary Policy
 - Household Finance
-- Real Estate
+# - Real Estate
 # - Central Banks' Communications
 
 # Education to show in About widget
