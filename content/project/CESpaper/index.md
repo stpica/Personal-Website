@@ -6,7 +6,7 @@ title: "Household Beliefs Across Euro Area Countries During Covid-19"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Clodomiro Ferreira
+- Clodomiro Ferreira [Clodomiro Ferreira](https://www.cfferreira.com/home)
 
 # Author notes (optional)
 # author_notes:
