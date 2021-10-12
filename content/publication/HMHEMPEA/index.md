@@ -1,5 +1,5 @@
 ---
-title: "Housing Markets and the Heterogenous Effects of Monetary Policy Across the Euro Area"
+title: "Housing Markets and the Heterogeneous Effects of Monetary Policy Across the Euro Area"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -30,10 +30,10 @@ publication_types: ["0"]
 # publication: In *Wowchemy Conference*
 publication_short: Job Market Paper
 
-abstract: "Monetary policy has heterogeneous effects across Euro Area countries. There are strong correlations between cross-country monetary policy potency and housing and mortgage market institutions, namely the share of adjustable-rate mortgages (ARM) and the homeownership rate (HoR). To disentangle the relative importance of ARM share and the HoR, I incorporate these features into a quantitative currency-union New Keynesian model with rich household balance sheets. I calibrate the model to Spain and the Euro Area. The model fits well: the consumption response in Spain is 1.8 times stronger than the Euro Area in the model relative to 2.5 in the data. My results reveal that higher ARM shares and higher HoR interact to amplify the effects of monetary policy on aggregate consumption due to smaller interest payments and higher collateral value of housing. I use the model to show that different forms of banking unions decrease the heterogenous effects of monetary policy by weakening the pass-through to mortgage rates. Finally, including house prices into the price index entails a trade-off between stabilizing output and inflation."
+abstract: "Monetary policy has heterogeneous effects across Euro Area countries. There are strong correlations between cross-country monetary policy potency and housing and mortgage market institutions, namely the share of adjustable-rate mortgages and the homeownership rate. To disentangle the relative importance of these institutions, I incorporate them into a quantitative currency-union New Keynesian model with rich household balance sheets. I calibrate the model to Spain and the Euro Area. The model fits well: the consumption response in Spain is 1.9 times stronger than the Euro Area in the model relative to 2.5 in the data. My results reveal that a higher adjustable-rate mortgage share and a higher homeownership rate interact to amplify the effects of monetary policy on economic activity due to smaller mortgage interest payments and a higher fraction of mortgaged homeowners operating in the market. I use the model to show that different forms of banking unions decrease the heterogeneous effects of monetary policy by weakening the pass-through to mortgage interest rates. Finally, including house prices into the Euro Area price index entails a trade-off between stabilizing output and inflation."
 
 # Summary. An optional shortened abstract.
-summary: "Monetary policy has heterogeneous effects across Euro Area countries. There are strong correlations between cross-country monetary policy potency and housing and mortgage market institutions, namely the share of adjustable-rate mortgages (ARM) and the homeownership rate (HoR). To disentangle the relative importance of ARM share and the HoR, I incorporate these features into a quantitative currency-union New Keynesian model with rich household balance sheets. I calibrate the model to Spain and the Euro Area. The model fits well: the consumption response in Spain is 1.8 times stronger than the Euro Area in the model relative to 2.5 in the data. My results reveal that higher ARM shares and higher HoR interact to amplify the effects of monetary policy on aggregate consumption due to smaller interest payments and higher collateral value of housing. I use the model to show that different forms of banking unions decrease the heterogenous effects of monetary policy by weakening the pass-through to mortgage rates. Finally, including house prices into the price index entails a trade-off between stabilizing output and inflation."
+summary: "Monetary policy has heterogeneous effects across Euro Area countries. There are strong correlations between cross-country monetary policy potency and housing and mortgage market institutions, namely the share of adjustable-rate mortgages and the homeownership rate. To disentangle the relative importance of these institutions, I incorporate them into a quantitative currency-union New Keynesian model with rich household balance sheets. I calibrate the model to Spain and the Euro Area. The model fits well: the consumption response in Spain is 1.9 times stronger than the Euro Area in the model relative to 2.5 in the data. My results reveal that a higher adjustable-rate mortgage share and a higher homeownership rate interact to amplify the effects of monetary policy on economic activity due to smaller mortgage interest payments and a higher fraction of mortgaged homeowners operating in the market. I use the model to show that different forms of banking unions decrease the heterogeneous effects of monetary policy by weakening the pass-through to mortgage interest rates. Finally, including house prices into the Euro Area price index entails a trade-off between stabilizing output and inflation."
 
 # tags: []
 tags: [Monetary Policy, Housing Markets, Mortgage Markets, VAR Analysis, Household Survey, New Keynesian, Banking Union]
@@ -51,11 +51,11 @@ featured: true
   #   name: 'VoxEU'
   #   url: ''
 
-# links:
-#   - icon_pack: fas
-#     icon: file-pdf
-#     name: 'PDF'
-#     url: 'research/HMHEMPEA/HMHEMPEA_Pica.pdf'
+links:
+  - icon_pack: fas
+    icon: file-pdf
+    name: 'PDF'
+    url: 'research/HMHEMPEA/HMHEMPEA_Pica.pdf'
 
 url_pdf: ''
 url_code: ''
