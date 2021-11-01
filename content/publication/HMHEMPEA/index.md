@@ -52,10 +52,10 @@ featured: true
   #   url: ''
 
 links:
-  # - icon_pack: fas
-  #   icon: file-pdf
-  #   name: 'PDF'
-  #   url: 'research/HMHEMPEA/HMHEMPEA_Pica.pdf'
+  - icon_pack: fas
+    icon: file-pdf
+    name: 'PDF'
+    url: 'research/HMHEMPEA/Pica_JMP_2021_BU.pdf'
 
 url_pdf: ''
 url_code: ''
