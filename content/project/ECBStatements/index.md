@@ -14,7 +14,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2020-03-01T00:00:00Z"
+date: "2021-03-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -36,9 +36,9 @@ publication_short:
 # abstract: Which words matter the most in central bank communication? Making use of a rather unique European monetary policy decision setting, we build the first monetary policy dictionary. We train the dictionary on a new intra-day level return data, which allows us to precisely identify which phrases do the market mainly reacts to. As an application, we attempt to distinguish whether financial markets react to learning about current economic conditions or future bank actions.
 
 # Summary. An optional shortened abstract.
-summary: Which words matter the most in central bank communication? Making use of a rather unique European monetary policy decision setting, we build the first monetary policy dictionary. We train the dictionary on a new intra-day level return data, which allows us to precisely identify which phrases do the market mainly reacts to.
+summary: Which words matter the most in central bank communication? Making use of a rather unique European monetary policy decision setting, we build the first monetary policy dictionary. We train the dictionary on high frequency movements of the stock market around the press conference. This allows us to precisely identify which phrases do the market mainly reacts to. We find that phrases such as ``Improved economy'', ``Market Development'', and ``Stability of the euro'' are associated to positive returns. On the other hand, phrases such as ``Heightened Uncertainties'' and ``Growth of loans'' are associated with negative returns.
 
-tags: [Monetary Policy, Central Bank's Communication, Text Analysis]
+tags: [Monetary Policy, Central Bank's Communication, Textual Analysis]
 
 # Display this page in the Featured widget?
 featured: false
@@ -95,4 +95,4 @@ slides: ""
 
 <h1>Abstract</h1>
 
-Which words matter the most in central bank communication? Making use of a rather unique European monetary policy decision setting, we build the first monetary policy dictionary. We train the dictionary on a new intra-day level return data, which allows us to precisely identify which phrases do the market mainly reacts to. As an application, we attempt to distinguish whether financial markets react to learning about current economic conditions or future bank actions.
+Which words matter the most in central bank communication? Making use of a rather unique European monetary policy decision setting, we build the first monetary policy dictionary. We train the dictionary on high frequency movements of the stock market around the press conference. This allows us to precisely identify which phrases do the market mainly reacts to. We find that phrases such as "Improved economy", "Market Development", and "Stability of the euro" are associated to positive returns. On the other hand, phrases such as "Heightened Uncertainties" and "Growth of loans" are associated with negative returns.
