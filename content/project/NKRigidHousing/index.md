@@ -69,7 +69,7 @@ featured: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
+  caption: 'House prices display momentum. VAR analysis with sign restrictions over Q1-1975 to Q4-2007'
   focal_point: ""
   preview_only: false
 
