@@ -99,10 +99,11 @@ My research focuses on macroeconomics. My fields of interest are monetary policy
 
 I will be on the upcoming Job Market cycle and available for interviews at the EJME 2021 and at the ASSA 2022.
 
+<span style="color:red"> **[News]:** </span> I will be presenting my job market paper at the [European Winter Meetings of the Econometric Society 2021](https://www.ub.edu/school-economics/ewmes) at 4pm CET on 12/15/2021. "Attending the conference is free for non-presenters to make it easy for interviewers to attend, but they will need to register."
+
 <!-- A complete list of my research projects is outlined in my [research page](https://www.stefanopica.com/research/). -->
 
 <!-- I am currently visiting the European Central Bank as part of the [Summer Research Graduate Programme](https://www.ecb.europa.eu/pub/economic-research/programmes/graduate/html/index.en.html). -->
-
 
 <!-- <span style="color:red"> **[News]:** </span> During Summer 2021, I will be visiting the European Central Bank as part of the [Summer Research Graduate Programme](https://www.ecb.europa.eu/pub/economic-research/programmes/graduate/html/index.en.html). -->
 
