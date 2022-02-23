@@ -97,7 +97,9 @@ I am a Ph.D. candidate in the [Boston University Economics Department](http://ww
 
 My research focuses on macroeconomics. My fields of interest are monetary policy, household finance, and real estate.
 
-I am on Job Market and available for interviews at the EJME 2021 and at the ASSA 2022.
+In September 2022 I will join the DG Economics, Statistics, and Research at the Bank of Italy as a Research Fellow.
+
+<!-- I am on Job Market and available for interviews at the EJME 2021 and at the ASSA 2022. -->
 
 <!-- <span style="color:red"> **[News]:** </span> I will be presenting my job market paper at the [European Winter Meetings of the Econometric Society 2021](https://www.ub.edu/school-economics/ewmes) at 4pm CET on 12/15/2021. "Attending the conference is free for non-presenters to make it easy for interviewers to attend, but they will need to register." -->
 
