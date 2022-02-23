@@ -54,15 +54,16 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/pica_ste
-# - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-#   icon_pack: fas
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: fas
+  link: https://scholar.google.com/citations?user=C-XS_qEAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/stpica
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/picastefano/
+  
 # - icon: envelope
 #   icon_pack: fas
 #   link: '/#contact'
