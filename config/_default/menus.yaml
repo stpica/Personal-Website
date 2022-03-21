@@ -20,20 +20,9 @@ main:
     url: '#experience'
     weight: 50
   - name: CV
-    # url: 'CV/CV_Pica.pdf'
-    identifier: cv
-    weight: 60
-  # - name: CV
-  #   identifier: cv
-  #   weight: 60
-  - name: PDF
     url: 'CV/CV_Pica.pdf'
-    parent: cv
+    # identifier: cv
     weight: 60
-  # - name: HTML (mobile-friendly)
-  #   url: 'CV/CV_Pica.html'
-  #   parent: cv
-  #   weight: 60
   # - name: Home
   #   url: '#about'
   #   weight: 10
@@ -58,3 +47,20 @@ main:
 #  - name: CV
 #    url: uploads/resume.pdf
 #    weight: 70
+
+
+# - name: CV
+#     # url: 'CV/CV_Pica.pdf'
+#     identifier: cv
+#     weight: 60
+#   - name: CV
+#     identifier: cv
+#     weight: 60
+#   - name: PDF
+#     url: 'CV/CV_Pica.pdf'
+#     parent: cv
+#     weight: 60
+#   - name: HTML (mobile-friendly)
+#     url: 'CV/CV_Pica.html'
+#     parent: cv
+#     weight: 60
