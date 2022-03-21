@@ -23,18 +23,17 @@ main:
     # url: 'CV/CV_Pica.pdf'
     identifier: cv
     weight: 60
-  - name: CV
-    # url: 'teaching/'
-    identifier: cv
-    weight: 60
+  # - name: CV
+  #   identifier: cv
+  #   weight: 60
   - name: PDF
     url: 'CV/CV_Pica.pdf'
     parent: cv
     weight: 60
-  - name: HTML (mobile-friendly)
-    url: 'CV/CV_Pica.html'
-    parent: cv
-    weight: 60
+  # - name: HTML (mobile-friendly)
+  #   url: 'CV/CV_Pica.html'
+  #   parent: cv
+  #   weight: 60
   # - name: Home
   #   url: '#about'
   #   weight: 10
