@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Job Market Paper
+title: Working Papers
 subtitle: ""
 
 content:

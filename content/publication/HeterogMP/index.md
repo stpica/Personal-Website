@@ -38,7 +38,11 @@ abstract: "Monetary policy has heterogeneous effects across euro area countries.
 
 summary: "Finalist at the 2022 ECB Young Economist Prize \n
 
-Upcoming Presentations: Theories and Methods in Macroeconomics, Philadelphia FED Mortgage Market Research Conference
+Upcoming Presentations: \n
+
+- 2022/04: Theories and Methods in Macroeconomics, King's College London \n
+
+- 2022/05: Mortgage Market Research Conference, Philadelphia FED \n
 
 Presented at: Boston University, Collegio Carlo Alberto, Universidad Carlos III de Madrid, IE University, Federal Reserve Board, European Central Bank, Central Bank of Italy, Central Bank of Denmark, Central Bank of the Netherlands, Central Bank of Lithuania, 2021 European Winter Meeting of the Econometric Society, BU-BC Green Line Macro Meeting"
 
