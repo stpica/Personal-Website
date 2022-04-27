@@ -98,6 +98,9 @@ I am a Ph.D. candidate in the [Boston University Economics Department](http://ww
 
 My research focuses on macroeconomics. My fields of interest are monetary policy, household finance, and real estate.
 
+<span style="color:red"> **[News]:** </span> I have been selected as a finalist in the European Central Bank’s Young Economist Prize 2022  [Young Economist Prize 2022](https://www.ecb.europa.eu/pub/conferences/ecbforum/YE_competition/html/index.en.html).
+
+
 <span> **Upcoming Presentations:** </span>
 
 - 21/04/2022: Theories and Methods in Macroeconomics 2022, King's College London
