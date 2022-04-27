@@ -38,7 +38,7 @@ abstract: "Monetary policy has heterogeneous effects across euro area countries.
 # Summary. An optional shortened abstract.
 # summary: "I study the role of the housing and mortgage markets in the heterogeneous transmission mechanism of monetary policy across euro area countries. Understanding the sources and mechanisms of such heterogeneity is crucial for policymakers and for quantifying the impact of currently proposed policy changes. This paper does so empirically, introduces and quantifies a structural model, and finally considers policy-relevant counterfactuals within the model."
 
-summary: "Finalist at the 2022 ECB Young Economist Prize \n
+summary: "_Finalist at the 2022 ECB Young Economist Prize_ \n
 
 **Upcoming Presentations**: \n
 
@@ -46,7 +46,7 @@ summary: "Finalist at the 2022 ECB Young Economist Prize \n
 
 - 2022/05: Mortgage Market Research Conference, Philadelphia FED \n
 
-Presented at: Boston University, Collegio Carlo Alberto, Universidad Carlos III de Madrid, IE University, Federal Reserve Board, European Central Bank, Central Bank of Italy, Central Bank of Denmark, Central Bank of the Netherlands, Central Bank of Lithuania, 2021 European Winter Meeting of the Econometric Society, BU-BC Green Line Macro Meeting"
+**Presented at**: Boston University, Collegio Carlo Alberto, Universidad Carlos III de Madrid, IE University, Federal Reserve Board, European Central Bank, Central Bank of Italy, Central Bank of Denmark, Central Bank of the Netherlands, Central Bank of Lithuania, 2021 European Winter Meeting of the Econometric Society, BU-BC Green Line Macro Meeting"
 
 
 # tags: []
