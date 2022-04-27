@@ -103,9 +103,9 @@ My research focuses on macroeconomics. My fields of interest are monetary policy
 
 <span> **Upcoming Presentations:** </span>
 
-- 21/04/2022: Theories and Methods in Macroeconomics 2022, King's College London
+- 2022/04: Theories and Methods in Macroeconomics 2022, King's College London
 
-- 11/05/2022: Mortgage Market Research Conference, Philadelphia FED
+- 2022/05: Mortgage Market Research Conference @ Philadelphia FED
 
 
 <!-- I am on Job Market and available for interviews at the EJME 2021 and at the ASSA 2022. -->
