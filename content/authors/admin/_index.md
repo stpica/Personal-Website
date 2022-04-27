@@ -94,11 +94,16 @@ email: "stpica@bu.edu"
 highlight_name: true
 ---
 
-I am a Ph.D. candidate in the [Boston University Economics Department](http://www.bu.edu/econ/).
+I am a Ph.D. candidate in the [Boston University Economics Department](http://www.bu.edu/econ/). In September 2022 I will join the DG Economics, Statistics, and Research at the Bank of Italy as a Research Fellow.
 
 My research focuses on macroeconomics. My fields of interest are monetary policy, household finance, and real estate.
 
-In September 2022 I will join the DG Economics, Statistics, and Research at the Bank of Italy as a Research Fellow.
+<span style="color:red"> **[Upcoming Presentations]:** </span>
+
+- 21/04/2022: Theories and Methods in Macroeconomics 2022, London
+
+- 11/05/2022: Mortgage Market Research Conference, Philadelphia
+
 
 <!-- I am on Job Market and available for interviews at the EJME 2021 and at the ASSA 2022. -->
 
