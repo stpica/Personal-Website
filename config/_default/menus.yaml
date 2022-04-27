@@ -7,7 +7,7 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Job Market Paper
+  - name: Working Papers
     url: '#featured'
     weight: 20
   - name: Work in Progress
