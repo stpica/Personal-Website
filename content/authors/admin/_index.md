@@ -98,7 +98,7 @@ I am a Ph.D. candidate in the [Boston University Economics Department](http://ww
 
 My research focuses on macroeconomics. My fields of interest are monetary policy, household finance, and real estate.
 
-<span style="color:red"> **[News]:** </span> I have been selected as a finalist at the European Central Bank’s [2022 Young Economist Prize](https://www.ecb.europa.eu/pub/conferences/ecbforum/YE_competition/html/index.en.html).
+<span style="color:red"> **[News]:** </span> I have been selected as a finalist for the European Central Bank’s [2022 Young Economist Prize](https://www.ecb.europa.eu/pub/conferences/ecbforum/YE_competition/html/index.en.html).
 
 
 <span> **Upcoming Presentations:** </span>
