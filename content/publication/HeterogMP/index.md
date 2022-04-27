@@ -53,14 +53,14 @@ featured: true
   #   url: ''
 
 links:
-  - icon_pack: fas
-    icon: file-pdf
+  - icon: file-pdf
+    icon_pack: fas
     name: 'PDF'
     url: 'research/HMHEMPEA/Pica_HeterogMP.pdf'
 
 # links:
-  - icon_pack: fab
-    icon: person-chalkboard
+  - icon: person-chalkboard
+    icon_pack: fas
     name: 'Poster'
     url: 'research/HMHEMPEA/Pica_HeterogMP_poster.pdf'
 
