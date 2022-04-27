@@ -34,7 +34,14 @@ publication_short: "Presented at Boston University, Collegio Carlo Alberto, Univ
 abstract: "Monetary policy has heterogeneous effects across euro area countries. There are strong correlations between cross-country monetary policy potency and housing and mortgage market institutions, namely the share of adjustable-rate mortgages and the homeownership rate. To disentangle the relative importance of these institutions, I incorporate them into a quantitative currency-union New Keynesian model with rich household balance sheets. I calibrate the model to Spain and the euro area and show that the consumption response in Spain is 2.4 times stronger than the euro area in the model relative to 2.5 in the data. My results reveal that a higher adjustable-rate mortgage share and a higher homeownership rate interact to amplify the effects of monetary policy on economic activity due to smaller mortgage interest payments and a higher fraction of mortgaged homeowners operating in the market. I use the model to show that a euro-area-wide mortgage market requiring shared financial regulation decreases the heterogeneous effects of monetary policy by weakening the pass-through to average mortgage interest rates. Finally, including house prices into the euro area price index stabilizes output at the cost of less stable goods inflation."
 
 # Summary. An optional shortened abstract.
-summary: "I study the role of the housing and mortgage markets in the heterogeneous transmission mechanism of monetary policy across euro area countries. Understanding the sources and mechanisms of such heterogeneity is crucial for policymakers and for quantifying the impact of currently proposed policy changes. This paper does so empirically, introduces and quantifies a structural model, and finally considers policy-relevant counterfactuals within the model."
+# summary: "I study the role of the housing and mortgage markets in the heterogeneous transmission mechanism of monetary policy across euro area countries. Understanding the sources and mechanisms of such heterogeneity is crucial for policymakers and for quantifying the impact of currently proposed policy changes. This paper does so empirically, introduces and quantifies a structural model, and finally considers policy-relevant counterfactuals within the model."
+
+summary: "Finalist at the 2022 ECB Young Economist Prize
+
+Upcoming Presentations: Theories and Methods in Macroeconomics, Philadelphia FED Mortgage Market Research Conference
+
+Presented at: Boston University, Collegio Carlo Alberto, Universidad Carlos III de Madrid, IE University, Federal Reserve Board, European Central Bank, Central Bank of Italy, Central Bank of Denmark, Central Bank of the Netherlands, Central Bank of Lithuania, 2021 European Winter Meeting of the Econometric Society, BU-BC Green Line Macro Meeting"
+
 
 # tags: []
 tags: [Monetary Policy, Housing Markets, Mortgage Markets, VAR Analysis, Household Survey, New Keynesian, Euro Area]
