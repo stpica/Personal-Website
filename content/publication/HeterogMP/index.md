@@ -40,7 +40,7 @@ abstract: "Monetary policy has heterogeneous effects across euro area countries.
 
 summary: "Finalist at the 2022 ECB Young Economist Prize \n
 
-Upcoming Presentations: \n
+**Upcoming Presentations**: \n
 
 - 2022/04: Theories and Methods in Macroeconomics, King's College London \n
 
