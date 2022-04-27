@@ -59,8 +59,8 @@ links:
     url: 'research/HMHEMPEA/Pica_HeterogMP.pdf'
 
 # links:
-  - icon_pack: fas
-    icon: fa-person-chalkboard
+  - icon_pack: fab
+    icon: person-chalkboard
     name: 'Poster'
     url: 'research/HMHEMPEA/Pica_HeterogMP_poster.pdf'
 
