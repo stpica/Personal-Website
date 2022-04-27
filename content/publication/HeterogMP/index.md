@@ -56,22 +56,22 @@ links:
   - icon_pack: fas
     icon: file-pdf
     name: 'PDF'
-    url: 'research/HMHEMPEA/Pica_HeterogMP'
+    url: 'research/HMHEMPEA/Pica_HeterogMP.pdf'
 
 links:
   - icon_pack: fas
     icon: person-chalkboard
     name: 'Poster'
-    url: 'research/HMHEMPEA/Pica_HeterogMP_poster'
+    url: 'research/HMHEMPEA/Pica_HeterogMP_poster.pdf'
 
-url_pdf: 'research/HMHEMPEA/Pica_HeterogMP'
-url_code: ''
-url_dataset: ''
-url_poster: 'research/HMHEMPEA/Pica_HeterogMP_poster'
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+# url_pdf: 'research/HMHEMPEA/Pica_HeterogMP'
+# url_code: ''
+# url_dataset: ''
+# url_poster: 'research/HMHEMPEA/Pica_HeterogMP_poster'
+# url_project: ''
+# url_slides: ''
+# url_source: ''
+# url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
