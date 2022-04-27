@@ -58,6 +58,12 @@ links:
     name: 'PDF'
     url: 'research/HMHEMPEA/Pica_HeterogMP'
 
+links:
+  - icon_pack: fas
+    icon: person-chalkboard
+    name: 'Poster'
+    url: 'research/HMHEMPEA/Pica_HeterogMP_poster'
+
 url_pdf: 'research/HMHEMPEA/Pica_HeterogMP'
 url_code: ''
 url_dataset: ''
