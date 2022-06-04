@@ -101,11 +101,11 @@ My research focuses on macroeconomics. My fields of interest are monetary policy
 <span style="color:red"> **[News]:** </span> I have been selected as a finalist for the European Central Bank’s [2022 Young Economist Prize](https://www.ecb.europa.eu/pub/conferences/ecbforum/YE_competition/html/index.en.html).
 
 
-<span> **Upcoming Presentations:** </span>
+<!-- <span> **Upcoming Presentations:** </span>
 
 - 2022/04: [Theories and Methods in Macroeconomics 2022](<https://t2m2022.sciencesconf.org/resource/page/id/4#B2>), King's College London
 
-- 2022/05: [Mortgage Market Research Conference](<https://www.philadelphiafed.org/calendar-of-events/mortgage-market-research-conference-2022>), Philadelphia FED
+- 2022/05: [Mortgage Market Research Conference](<https://www.philadelphiafed.org/calendar-of-events/mortgage-market-research-conference-2022>), Philadelphia FED -->
 
 
 <!-- I am on Job Market and available for interviews at the EJME 2021 and at the ASSA 2022. -->
