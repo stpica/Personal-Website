@@ -29,7 +29,7 @@ education:
   courses:
   - course: Ph.D. in Economics
     institution: Boston University
-    year: 2022 (Expected)
+    year: 2022
   - course: M.A. in Political Economy
     institution: Boston University
     year: 2018
