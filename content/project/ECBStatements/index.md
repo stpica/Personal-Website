@@ -53,10 +53,10 @@ links:
     icon: file-image
     name: 'Poster'
     url: 'research/ECBStatements/PP_poster.pdf'
-  - icon_pack: fas
-    icon: images
-    name: 'Slides'
-    url: 'research/ECBStatements/PP_Spring2020.pdf'
+  # - icon_pack: fas
+  #   icon: images
+  #   name: 'Slides'
+  #   url: 'research/ECBStatements/PP_Spring2020.pdf'
 
 
 # url_pdf: ''
@@ -70,10 +70,10 @@ links:
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: ''
-  focal_point: ""
-  preview_only: false
+# image:
+#   caption: ''
+#   focal_point: ""
+#   preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
