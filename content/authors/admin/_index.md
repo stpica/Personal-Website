@@ -17,28 +17,28 @@ role: Ph.D. Candidate in Economics Boston University
 bio: I am an applied macroeconomist interested in monetary policy, household finance, and real estate.
 
 # Interests to show in About widget
-interests:
-- Macroeconomics
-- Monetary Policy
-- Household Finance
-- Real Estate
+# interests:
+# - Macroeconomics
+# - Monetary Policy
+# - Household Finance
+# - Real Estate
 # - Central Banks' Communications
 
 # Education to show in About widget
-education:
-  courses:
-  - course: Ph.D. in Economics
-    institution: Boston University
-    year: 2022
-  - course: M.A. in Political Economy
-    institution: Boston University
-    year: 2018
-  - course: Master in Economics and Finance
-    institution: CEMFI
-    year: 2016
-  - course: Laurea Magistralis in Economics and Finance
-    institution: University of Naples “Federico II”
-    year: 2014
+# education:
+#   courses:
+#   - course: Ph.D. in Economics
+#     institution: Boston University
+#     year: 2022
+#   - course: M.A. in Political Economy
+#     institution: Boston University
+#     year: 2018
+#   - course: Master in Economics and Finance
+#     institution: CEMFI
+#     year: 2016
+#   - course: Laurea Magistralis in Economics and Finance
+#     institution: University of Naples “Federico II”
+#     year: 2014
   # - course: Laurea Triennale in Economia e Commercio
     # institution: University of Naples “Federico II”
     # year: 2012
