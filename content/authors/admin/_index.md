@@ -98,18 +98,19 @@ I am a Ph.D. candidate in the [Boston University Economics Department](http://ww
 
 My research focuses on macroeconomics. My fields of interest are monetary policy, household finance, and real estate.
 
-<span style="color:red"> **[News]:** </span>
+<!-- <span style="color:red"> **[News]:** </span> -->
+<span> **News:** </span>
 
 - 2022/07: My paper on the housing markets and monetary policy has been briefly mentioned in the Financial Times ([link](https://www.ft.com/content/64487d95-f58c-4131-b27e-e7a3b68dfdce))
 
-- 2022/06: I have been selected as a finalist for the European Central Bank’s [2022 Young Economist Prize](https://www.ecb.europa.eu/pub/conferences/ecbforum/YE_competition/html/index.en.html).
+- 2022/06: I have been selected as a finalist for the European Central Bank’s [2022 Young Economist Prize](https://www.ecb.europa.eu/pub/conferences/ecbforum/YE_competition/html/index.en.html)
 
 
-<span> **Upcoming Presentations:** </span>
+<!-- <span> **Upcoming Presentations:** </span>
 
-- 2022/05: [Mortgage Market Research Conference](<https://www.philadelphiafed.org/calendar-of-events/mortgage-market-research-conference-2022>), Philadelphia FED -->
+- 2022/05: [Mortgage Market Research Conference](<https://www.philadelphiafed.org/calendar-of-events/mortgage-market-research-conference-2022>), Philadelphia FED
 
-- 2022/04: [Theories and Methods in Macroeconomics 2022](<https://t2m2022.sciencesconf.org/resource/page/id/4#B2>), King's College London
+- 2022/04: [Theories and Methods in Macroeconomics 2022](<https://t2m2022.sciencesconf.org/resource/page/id/4#B2>), King's College London -->
 
 
 <!-- I am on Job Market and available for interviews at the EJME 2021 and at the ASSA 2022. -->
