@@ -60,10 +60,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-  # - icon_pack: fas
-  #   icon: bullhorn
-  #   name: 'VoxEU'
-  #   url: ''
+
 
 links:
   - icon: file-pdf
@@ -71,11 +68,15 @@ links:
     name: 'PDF'
     url: 'research/HMHEMPEA/Pica_HeterogMP.pdf'
 
-# links:
   - icon: file-image
     icon_pack: fas
     name: 'Poster'
     url: 'research/HMHEMPEA/Pica_HeterogMP_poster.pdf'
+
+  - icon_pack: fas
+    icon: bullhorn
+    name: 'Mentioned at Financial Times'
+    url: 'https://www.ft.com/content/64487d95-f58c-4131-b27e-e7a3b68dfdce'
 
 # url_pdf: 'research/HMHEMPEA/Pica_HeterogMP'
 # url_code: ''
