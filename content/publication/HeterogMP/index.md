@@ -81,7 +81,7 @@ links:
   - icon_pack: fas
     icon: video
     name: 'Talk @ Philadelphia FED Conference'
-    url: https://www.youtube.com/watch?v=qopS8ZoDWh8&list=PL3nIbYCsVRj03E-2HDY6gbTg4qqMcBpk9&index=8&ab_channel=PhiladelphiaFed
+    url: https://youtu.be/qopS8ZoDWh8
 
 
 # url_pdf: 'research/HMHEMPEA/Pica_HeterogMP'
