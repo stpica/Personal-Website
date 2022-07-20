@@ -70,18 +70,18 @@ links:
 
   - icon_pack: fas
     icon: file-image
-    name: 'Poster'
+    name: 'Poster @ ECB Forum'
     url: 'research/HMHEMPEA/Pica_HeterogMP_poster.pdf'
 
   - icon_pack: fas
     icon: bullhorn
     name: 'Mentioned @ Financial Times'
-    url: 'https://www.ft.com/content/64487d95-f58c-4131-b27e-e7a3b68dfdce'
+    url: https://www.ft.com/content/64487d95-f58c-4131-b27e-e7a3b68dfdce
 
   - icon_pack: fas
     icon: video
-    name: 'Mentioned @ Financial Times'
-    url: 'https://www.ft.com/content/64487d95-f58c-4131-b27e-e7a3b68dfdce'
+    name: 'Talk @ Philadelphia FED Conference'
+    url: https://www.youtube.com/watch?v=qopS8ZoDWh8&list=PL3nIbYCsVRj03E-2HDY6gbTg4qqMcBpk9&index=8&ab_channel=PhiladelphiaFed
 
 
 # url_pdf: 'research/HMHEMPEA/Pica_HeterogMP'
