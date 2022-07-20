@@ -63,13 +63,13 @@ featured: true
 
 
 links:
-  - icon: file-pdf
-    icon_pack: fas
+  - icon_pack: fas
+    icon: file-pdf
     name: 'PDF'
     url: 'research/HMHEMPEA/Pica_HeterogMP.pdf'
 
-  - icon: file-image
-    icon_pack: fas
+  - icon_pack: fas
+    icon: file-image
     name: 'Poster'
     url: 'research/HMHEMPEA/Pica_HeterogMP_poster.pdf'
 
@@ -77,6 +77,12 @@ links:
     icon: bullhorn
     name: 'Mentioned @ Financial Times'
     url: 'https://www.ft.com/content/64487d95-f58c-4131-b27e-e7a3b68dfdce'
+
+  - icon_pack: fas
+    icon: video
+    name: 'Mentioned @ Financial Times'
+    url: 'https://www.ft.com/content/64487d95-f58c-4131-b27e-e7a3b68dfdce'
+
 
 # url_pdf: 'research/HMHEMPEA/Pica_HeterogMP'
 # url_code: ''
