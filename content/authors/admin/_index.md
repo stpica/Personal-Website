@@ -6,11 +6,11 @@ title: Stefano Pica
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate in Economics Boston University
+role: Research Fellow Bank of Italy
 
 # Organizations/Affiliations to show in About widget
 # organizations:
-# - name: Boston University
+# - name: Bank of Italy
 #   url: http://www.bu.edu/econ/
 
 # Short bio (displayed in user profile at end of posts)
@@ -94,7 +94,7 @@ email: "stpica@bu.edu"
 highlight_name: true
 ---
 
-I am a Ph.D. candidate in the [Boston University Economics Department](http://www.bu.edu/econ/). In September 2022 I will join the DG Economics, Statistics, and Research at the Bank of Italy as a Research Fellow.
+I am a Research fellow in the DG Economics, Statistics, and Research at the Bank of Italy.
 
 My research focuses on macroeconomics. My fields of interest are monetary policy, household finance, and real estate.
 
