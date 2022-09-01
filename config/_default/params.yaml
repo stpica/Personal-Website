@@ -23,16 +23,16 @@ twitter: ''
 email: stpica@bu.edu
 phone:
 address:
-  street: 270 Bay State Road
-  city: Boston
-  region: MA
-  postcode: '02215'
-  country: United States
-  country_code: US
+  street: Via Nazionale, 91
+  city: Rome
+  region: Rome
+  postcode: '00184'
+  country: Italy
+  country_code: IT
 coordinates:
-  latitude: '42.351057'
-  longitude: '-71.105501'
-directions: Office 518, Floor 5
+  latitude: '41.897411'
+  longitude: '12.488540'
+directions:
 office_hours:
   # - 'Monday 10:00 to 13:00'
   # - 'Wednesday 09:00 to 10:00'

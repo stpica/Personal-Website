@@ -6,7 +6,7 @@ title: Stefano Pica
 superuser: true
 
 # Role/position/tagline
-role: Research Fellow Bank of Italy
+role: Research Fellow @ Bank of Italy
 
 # Organizations/Affiliations to show in About widget
 # organizations:
