@@ -11,7 +11,7 @@ role: Research Fellow @ Bank of Italy
 # Organizations/Affiliations to show in About widget
 # organizations:
 # - name: Bank of Italy
-#   url: http://www.bu.edu/econ/
+#   url: https://www.bancaditalia.it/homepage/index.html?com.dotmarketing.htmlpage.language=1
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am an applied macroeconomist interested in monetary policy, household finance, and real estate.

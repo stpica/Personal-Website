@@ -25,7 +25,7 @@ phone:
 address:
   street: Via Nazionale, 91
   city: Rome
-  region: Rome
+  region:
   postcode: '00184'
   country: Italy
   country_code: IT
