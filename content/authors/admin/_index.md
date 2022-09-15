@@ -108,6 +108,8 @@ My research focuses on macroeconomics. My fields of interest are monetary policy
 
 <span> **Upcoming Presentations:** </span>
 
+- 2022/12: [Spanish Economic Association Conference](<http://asesec.org/simposio/index.html>), University of Valencia
+
 - 2022/10: Seminar at [CSEF](https://csef.it/events/seminars/), Naples
 
 <!-- - 2022/05: [Mortgage Market Research Conference](<https://www.philadelphiafed.org/calendar-of-events/mortgage-market-research-conference-2022>), Philadelphia FED
