@@ -98,6 +98,12 @@ I am a Research fellow in the DG Economics, Statistics, and Research at the Bank
 
 My research focuses on macroeconomics. My fields of interest are monetary policy, household finance, and real estate.
 
+<span> **Upcoming Presentations:** </span>
+
+- 2022/12: [Spanish Economic Association Conference](<http://asesec.org/simposio/index.html>), University of Valencia
+
+- 2022/10: Seminar at [CSEF](https://csef.it/events/seminars/), Naples
+
 <!-- <span style="color:red"> **[News]:** </span> -->
 <span> **News:** </span>
 
@@ -105,12 +111,6 @@ My research focuses on macroeconomics. My fields of interest are monetary policy
 
 - 2022/06: I have been selected as a finalist for the European Central Bank’s [2022 Young Economist Prize](https://www.ecb.europa.eu/pub/conferences/ecbforum/YE_competition/html/index.en.html)
 
-
-<span> **Upcoming Presentations:** </span>
-
-- 2022/12: [Spanish Economic Association Conference](<http://asesec.org/simposio/index.html>), University of Valencia
-
-- 2022/10: Seminar at [CSEF](https://csef.it/events/seminars/), Naples
 
 <!-- - 2022/05: [Mortgage Market Research Conference](<https://www.philadelphiafed.org/calendar-of-events/mortgage-market-research-conference-2022>), Philadelphia FED
 
