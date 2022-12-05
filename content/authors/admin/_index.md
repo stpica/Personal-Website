@@ -100,16 +100,18 @@ My research focuses on macroeconomics. My fields of interest are monetary policy
 
 <span> **Upcoming Presentations:** </span>
 
-- 2022/12: [Spanish Economic Association Conference](<http://asesec.org/simposio/index.html>), University of Valencia
+- 2022-12-16: [Spanish Economic Association Conference](<http://asesec.org/simposio/index.html>), University of Valencia
 
-- 2022/10: Seminar at [CSEF](https://csef.it/events/seminars/), Naples
+- 2022-12-07: Seminar at the European Central Bank, Online
+
+- 2022-10-04: Seminar at [CSEF](https://csef.it/events/seminars/), Naples
 
 <!-- <span style="color:red"> **[News]:** </span> -->
 <span> **News:** </span>
 
-- 2022/07: My paper on the housing markets and monetary policy has been briefly mentioned in the Financial Times ([link](https://www.ft.com/content/64487d95-f58c-4131-b27e-e7a3b68dfdce))
+- 2022-07-19: My paper on the housing markets and monetary policy has been briefly mentioned in the Financial Times ([link](https://www.ft.com/content/64487d95-f58c-4131-b27e-e7a3b68dfdce))
 
-- 2022/06: I have been selected as a finalist for the European Central Bank’s [2022 Young Economist Prize](https://www.ecb.europa.eu/pub/conferences/ecbforum/YE_competition/html/index.en.html)
+- 2022-06: I have been selected as a finalist for the European Central Bank’s [2022 Young Economist Prize](https://www.ecb.europa.eu/pub/conferences/ecbforum/YE_competition/html/index.en.html)
 
 
 <!-- - 2022/05: [Mortgage Market Research Conference](<https://www.philadelphiafed.org/calendar-of-events/mortgage-market-research-conference-2022>), Philadelphia FED
