@@ -53,10 +53,10 @@ links:
     icon: file-image
     name: 'Poster'
     url: 'research/ECBStatements/PP_poster.pdf'
-  # - icon_pack: fas
-  #   icon: images
-  #   name: 'Slides'
-  #   url: 'research/ECBStatements/PP_Spring2020.pdf'
+  - icon_pack: fas
+    icon: images
+    name: 'Slides'
+    url: 'research/ECBStatements/PP_Spring2020.pdf'
 
 
 # url_pdf: ''
