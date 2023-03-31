@@ -25,26 +25,26 @@ bio: I am an applied macroeconomist interested in monetary policy, household fin
 # - Central Banks' Communications
 
 # Education to show in About widget
-# education:
-#   courses:
-#   - course: Ph.D. in Economics
-#     institution: Boston University
-#     year: 2022
-#   - course: M.A. in Political Economy
-#     institution: Boston University
-#     year: 2018
-  # - course: Master in Economics and Finance
-  #   institution: CEMFI
-  #   year: 2016
-  # - course: Laurea Magistralis in Economics and Finance
-  #   institution: University of Naples “Federico II”
-  #   year: 2014
+education:
+  courses:
+  - course: Ph.D. in Economics
+    institution: Boston University
+    year: 2022
+  - course: M.A. in Political Economy
+    institution: Boston University
+    year: 2018
+  - course: Master in Economics and Finance
+    institution: CEMFI
+    year: 2016
+  - course: Laurea Magistralis in Economics and Finance
+    institution: University of Naples “Federico II”
+    year: 2014
   # - course: Laurea Triennale in Economia e Commercio
     # institution: University of Naples “Federico II”
     # year: 2012
 
 # Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
@@ -98,7 +98,9 @@ I am a Research fellow in the DG Economics, Statistics, and Research at the Bank
 
 My research focuses on macroeconomics. My fields of interest are monetary policy, household finance, and real estate.
 
-<span> **Upcoming/Recent Presentations:** </span>
+<span> **Upcoming/Recent Talks:** </span>
+
+- 2023-04-27: Discussion at the [SUERF-Banca d’Italia-ECB-EIB conference](<https://www.suerf.org/econsurveys>), Bank of Italy
 
 - 2022-12-16: [Spanish Economic Association Conference](<http://asesec.org/simposio/index.html>), University of Valencia
 
