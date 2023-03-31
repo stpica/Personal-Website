@@ -36,9 +36,12 @@ education:
   - course: Master in Economics and Finance
     institution: CEMFI
     year: 2016
-  - course: Laurea Magistralis in Economics and Finance
+  - course: Laurea in Economics and Finance
     institution: University of Naples “Federico II”
     year: 2014
+  # - course: Laurea Magistralis in Economics and Finance
+  #   institution: University of Naples “Federico II”
+  #   year: 2014
   # - course: Laurea Triennale in Economia e Commercio
     # institution: University of Naples “Federico II”
     # year: 2012
@@ -96,14 +99,16 @@ highlight_name: true
 
 I am a Research fellow in the DG Economics, Statistics, and Research at the Bank of Italy.
 
-My research focuses on macroeconomics. My fields of interest are monetary policy, household finance, and real estate.
+My research focuses on macroeconomics. My fields of interest are monetary policy and household finance.
+
+<span> **Disclaimer:** </span>: The views expressed on this website are my own and do not necessarily reflect those of the Bank of Italy or the Euro-system.
 
 <span> **Upcoming/Recent Talks:** </span>
 
 - 2023-04-27: Discussion at the [SUERF conference](<https://www.suerf.org/econsurveys>), Bank of Italy
 
-- 2022-12-16: [Spanish Economic Association Conference](<http://asesec.org/simposio/index.html>), University of Valencia
-
+- 2022-12-16: Spanish Economic Association Conference, University of Valencia
+<!-- - 2022-12-16: [Spanish Economic Association Conference](<http://asesec.org/simposio/index.html>), University of Valencia -->
 - 2022-12-07: Seminar at the European Central Bank, Online
 
 - 2022-10-04: Seminar at [CSEF](https://csef.it/events/seminars/), Naples
