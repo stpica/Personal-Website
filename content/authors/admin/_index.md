@@ -14,7 +14,7 @@ role: Research Fellow @ Bank of Italy
 #   url: https://www.bancaditalia.it/homepage/index.html?com.dotmarketing.htmlpage.language=1
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an applied macroeconomist interested in monetary policy, household finance, and real estate.
+bio: I am an applied macroeconomist interested in monetary policy and household finance.
 
 # Interests to show in About widget
 # interests:
@@ -101,7 +101,7 @@ I am a Research fellow in the DG Economics, Statistics, and Research at the Bank
 
 My research focuses on macroeconomics. My fields of interest are monetary policy and household finance.
 
-<span> **Disclaimer:** </span>: The views expressed on this website are my own and do not necessarily reflect those of the Bank of Italy or the Euro-system.
+<span> **Disclaimer:** </span> The views expressed on this website are my own and do not necessarily reflect those of the Bank of Italy or the Euro-system.
 
 <span> **Upcoming/Recent Talks:** </span>
 
