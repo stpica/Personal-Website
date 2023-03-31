@@ -30,7 +30,7 @@ publication_types: ["0"]
 # publication_short: In *ICW*
 
 publication: DRAFT COMING SOON!
-publication_short:
+publication_short: DRAFT COMING SOON!
 
 # abstract: "How do households across Euro Area countries plan their spending during the covid-19 pandemic? Making use of the Consumption Expectation Survey administered by the European Central Bank, we find that current balance sheets positions, as well as expectations about individual and aggregate variables, play an important role in household planned expenditures in durables. Expectations about both house price growth and inflation shape such plans, and these impacts have been changing during the course of the pandemic. An increase in the number of covid-related deaths in the region where households reside sharply decreases their planned expenditures over the following 12 months. Additionally, we uncover significant heterogeneity across education levels, age, and housing tenure."
 
