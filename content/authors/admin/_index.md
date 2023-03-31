@@ -108,7 +108,7 @@ My research focuses on macroeconomics. My fields of interest are monetary policy
 - 2023-04-27: Discussion at the [SUERF conference](<https://www.suerf.org/econsurveys>), Bank of Italy
 
 - 2022-12-16: Spanish Economic Association Conference, University of Valencia
-<!-- - 2022-12-16: [Spanish Economic Association Conference](<http://asesec.org/simposio/index.html>), University of Valencia -->
+
 - 2022-12-07: Seminar at the European Central Bank, Online
 
 - 2022-10-04: Seminar at [CSEF](https://csef.it/events/seminars/), Naples
