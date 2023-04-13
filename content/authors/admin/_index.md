@@ -105,6 +105,8 @@ My research focuses on macroeconomics. My fields of interest are monetary policy
 
 <span> **Upcoming/Recent Talks:** </span>
 
+- 2023-06-22: Talk at the [Conference on the Macroeconomics of Expectations](<https://cepr.org/events/banque-de-france-cepr-and-paris-school-economics-joint-conference-macroeconomics>), Bank of France
+
 - 2023-04-27: Discussion at the [SUERF conference](<https://www.suerf.org/econsurveys>), Bank of Italy
 
 - 2022-12-16: Spanish Economic Association Conference, University of Valencia
