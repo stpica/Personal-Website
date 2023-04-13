@@ -97,9 +97,7 @@ email: "stpica@bu.edu"
 highlight_name: true
 ---
 
-I am a Research fellow in the DG Economics, Statistics, and Research at the Bank of Italy.
-
-My research focuses on macroeconomics. My fields of interest are monetary policy and household finance.
+I am a Research fellow in the DG Economics, Statistics, and Research at the Bank of Italy. My work focuses on macroeconomics, and my fields of interest are monetary policy and household finance.
 
 <span> **Disclaimer:** </span> The views expressed on this website are my own and do not necessarily reflect those of the Bank of Italy or the Euro-system.
 
