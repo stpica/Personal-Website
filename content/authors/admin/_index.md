@@ -106,17 +106,19 @@ I am a Research fellow in the DG Economics, Statistics, and Research at the Bank
 - 2023-06-22: [Conference on the Macroeconomics of Expectations](<https://cepr.org/events/banque-de-france-cepr-and-paris-school-economics-joint-conference-macroeconomics>), Bank of France
 
 - 2023-04-27: Discussion at the [SUERF conference](<https://www.suerf.org/econsurveys>), Bank of Italy
-
+<!-- 
 - 2022-12-16: Spanish Economic Association Conference, University of Valencia
 
 - 2022-12-07: Seminar at the European Central Bank, Online
 
-- 2022-10-04: Seminar at [CSEF](https://csef.it/events/seminars/), Naples
+- 2022-10-04: Seminar at [CSEF](https://csef.it/events/seminars/), Naples -->
 
 <!-- <span style="color:red"> **[News]:** </span> -->
 <span> **News:** </span>
 
-- 2022-07-19: My paper on the housing markets and monetary policy has been briefly mentioned in the Financial Times ([link](https://www.ft.com/content/64487d95-f58c-4131-b27e-e7a3b68dfdce))
+- 2023-07-02: My paper on the housing markets and monetary policy has been mentioned in The Telegraph ([link](https://www.telegraph.co.uk/business/2023/07/02/baby-boomer-property-uk-mortgage-crisis-interest-rates/))
+
+- 2022-07-19: My paper on the housing markets and monetary policy has been mentioned in the Financial Times ([link](https://www.ft.com/content/64487d95-f58c-4131-b27e-e7a3b68dfdce))
 
 - 2022-06: I have been selected as a finalist for the European Central Bank’s [2022 Young Economist Prize](https://www.ecb.europa.eu/pub/conferences/ecbforum/YE_competition/html/index.en.html)
 

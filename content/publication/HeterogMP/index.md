@@ -69,14 +69,19 @@ links:
     url: 'research/HMHEMPEA/Pica_HeterogMP.pdf'
 
   - icon_pack: fas
-    icon: file-image
-    name: 'Poster @ ECB Forum'
-    url: 'research/HMHEMPEA/Pica_HeterogMP_poster.pdf'
-
-  - icon_pack: fas
     icon: bullhorn
     name: 'Mentioned @ Financial Times'
     url: https://www.ft.com/content/64487d95-f58c-4131-b27e-e7a3b68dfdce
+
+  - icon_pack: fas
+    icon: bullhorn
+    name: 'Mentioned @ The Telegraph'
+    url: https://www.telegraph.co.uk/business/2023/07/02/baby-boomer-property-uk-mortgage-crisis-interest-rates/
+
+  - icon_pack: fas
+    icon: file-image
+    name: 'Poster @ ECB Forum'
+    url: 'research/HMHEMPEA/Pica_HeterogMP_poster.pdf'
 
   - icon_pack: fas
     icon: video
