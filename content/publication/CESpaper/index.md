@@ -13,7 +13,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2021-09-01T00:00:00Z"
+date: "2023-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -29,8 +29,8 @@ publication_types: ["0"]
 # publication: In *Wowchemy Conference*
 # publication_short: In *ICW*
 
-publication: DRAFT COMING SOON!
-publication_short: DRAFT COMING SOON!
+# publication: DRAFT COMING SOON!
+publication_short: "Working Paper"
 
 abstract: "The ECB’s Consumer Expectation Survey queries households in the largest six euro area countries about their expectations for a wide range of macroeconomic and individual-level variables. We document strong correlations between these expectations, which we use to identify two principal components that explain a significant portion of the variance of all expectations. Judging from the sign of the loadings on expected prices and quantities, we interpret these components as capturing households’ perceptions of the sources of macroeconomic dynamics, with the first capturing supply-side shocks and the second component reflecting demand-side shocks. A panel analysis shows that the first and the second household-level principal component scores are associated with opposite movements in household realized consumption and precautionary savings, uncovering the differential effects of supply and demand shocks."
 
@@ -40,7 +40,7 @@ summary: "The ECB’s Consumer Expectation Survey queries households in the larg
 tags: [Survey, Expectations, Inflation, Output, Supply, Demand]
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 links:
