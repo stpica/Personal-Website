@@ -14,7 +14,7 @@ role: Research Fellow @ Bank of Italy
 #   url: https://www.bancaditalia.it/homepage/index.html?com.dotmarketing.htmlpage.language=1
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an applied macroeconomist interested in monetary policy and household finance.
+bio: I am a macroeconomist interested in monetary policy and household finance.
 
 # Interests to show in About widget
 # interests:
@@ -25,20 +25,20 @@ bio: I am an applied macroeconomist interested in monetary policy and household 
 # - Central Banks' Communications
 
 # Education to show in About widget
-education:
-  courses:
-  - course: Ph.D. in Economics
-    institution: Boston University
-    year: 2022
-  - course: M.A. in Political Economy
-    institution: Boston University
-    year: 2018
-  - course: Master in Economics and Finance
-    institution: CEMFI
-    year: 2016
-  - course: Laurea in Economics and Finance
-    institution: University of Naples “Federico II”
-    year: 2014
+# education:
+#   courses:
+#   - course: Ph.D. in Economics
+#     institution: Boston University
+#     year: 2022
+#   - course: M.A. in Political Economy
+#     institution: Boston University
+#     year: 2018
+#   - course: Master in Economics and Finance
+#     institution: CEMFI
+#     year: 2016
+#   - course: Laurea in Economics and Finance
+#     institution: University of Naples “Federico II”
+#     year: 2014
   # - course: Laurea Magistralis in Economics and Finance
   #   institution: University of Naples “Federico II”
   #   year: 2014
@@ -97,7 +97,7 @@ email: "stpica@bu.edu"
 highlight_name: true
 ---
 
-I am a Research fellow in the DG Economics, Statistics, and Research at the Bank of Italy. My work focuses on macroeconomics, and my fields of interest are monetary policy and household finance.
+I am a Research fellow at the Bank of Italy. My work focuses on macroeconomics, with a focus on monetary policy and household finance.
 
 <span> **Disclaimer:** </span> The views expressed on this website are my own and do not necessarily reflect those of the Bank of Italy or the Euro-system.
 
