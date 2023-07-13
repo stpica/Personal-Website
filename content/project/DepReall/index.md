@@ -8,7 +8,7 @@ authors:
 - Dominic Cucic
 - Rajkamal Iyer
 - Sotirios Kokas
-- Jose Luis Peydro
+- José-Luis Peydró
 - admin
 
 # Author notes (optional)
@@ -35,10 +35,10 @@ publication_types: ["0"]
 publication: DRAFT COMING SOON!
 publication_short: DRAFT COMING SOON!
 
-# abstract: "How do households across Euro Area countries plan their spending during the covid-19 pandemic? Making use of the Consumption Expectation Survey administered by the European Central Bank, we find that current balance sheets positions, as well as expectations about individual and aggregate variables, play an important role in household planned expenditures in durables. Expectations about both house price growth and inflation shape such plans, and these impacts have been changing during the course of the pandemic. An increase in the number of covid-related deaths in the region where households reside sharply decreases their planned expenditures over the following 12 months. Additionally, we uncover significant heterogeneity across education levels, age, and housing tenure."
+# abstract: ""
 
 # Summary. An optional shortened abstract.
-# summary: "The euro area Consumer Expectation Survey queries households about their expectations for a wide range of macroeconomic and individual-level variables, including economic growth, inflation, house prices, interest rates, and personal income growth. We find strong correlations between these expectations, which we use to identify two principal components that explain a significant portion of the total variance. These components represent households’ perceptions of the sources of macroeconomic dynamics, with the first reflecting supply-side shocks and the second reflecting demand-side shocks. Despite their stability over time, these components provide differential variation in household realized consumption in both durables and nondurables, and in precautionary savings. Overall, our results suggest that – at least since 2020 – households have been expecting supply-side shocks to be more important than demand-side shocks for the evolution of the business cycle."
+# summary: ""
 
 tags: [Financial Crises, Banking, Firm Productivity]
 
@@ -84,6 +84,3 @@ projects: []
 slides: ""
 ---
 
-<!-- <h1>Abstract</h1>
-
-The euro area Consumer Expectation Survey queries households about their expectations for a wide range of macroeconomic and individual-level variables, including economic growth, inflation, house prices, interest rates, and personal income growth. We find strong correlations between these expectations, which we use to identify two principal components that explain a significant portion of the total variance. These components represent households’ perceptions of the sources of macroeconomic dynamics, with the first reflecting supply-side shocks and the second reflecting demand-side shocks. Despite their stability over time, these components provide differential variation in household realized consumption in both durables and nondurables, and in precautionary savings. Overall, our results suggest that – at least since 2020 – households have been expecting supply-side shocks to be more important than demand-side shocks for the evolution of the business cycle. -->
