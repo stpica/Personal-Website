@@ -103,9 +103,11 @@ I am a Research fellow at the Bank of Italy. My work focuses on macroeconomics, 
 
 <span> **Upcoming/Recent Talks:** </span>
 
-- 2023-06-22: [Conference on the Macroeconomics of Expectations](<https://cepr.org/events/banque-de-france-cepr-and-paris-school-economics-joint-conference-macroeconomics>), Bank of France
+- 2023-10: [2023 ECB Conference on Monetary Policy: bridging science and practice](<https://www.ecb.europa.eu/pub/conferences/html/20231004_mon_pol_conference.en.html>), European Central Bank
 
-- 2023-04-27: Discussion at the [SUERF conference](<https://www.suerf.org/econsurveys>), Bank of Italy
+- 2023-06: [Conference on the Macroeconomics of Expectations](<https://cepr.org/events/banque-de-france-cepr-and-paris-school-economics-joint-conference-macroeconomics>), Bank of France
+
+- 2023-04: Discussion at the [SUERF conference](<https://www.suerf.org/econsurveys>), Bank of Italy
 <!-- 
 - 2022-12-16: Spanish Economic Association Conference, University of Valencia
 
