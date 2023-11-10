@@ -35,7 +35,7 @@ publication_short: "Working Paper"
 abstract: "We study the joint behavior of households’ survey expectations for a wide range of macroeconomic and individual-level variables in the largest six euro area countries, both in the cross-section and time series. Although households disagree, their expectations are correlated in the cross-section. Two principal components explain a significant portion of the variance of all expectations. These components capture households’ perceptions of the sources of macroeconomic dynamics, with the first capturing supply-side views and the second component reflecting demand-side views. This structure of perceptions and disagreement is stable across countries and time and does not vary with demographic or socioeconomic characteristics. We then use these insights to identify two common factors driving expectations over time. The factors co-move strongly with measures of supply and demand disturbances and align well with a narrative based on increasing perceived inflationary pressures coming from supply after the invasion of Ukraine in February 2022."
 
 # Summary. An optional shortened abstract.
-summary: **Presented at**: University of Naples Federico II, the Bank of Italy, the Bank of Spain, the G4 Monetary Policy Meetings, and the Conference on the Macroeconomics of Expectations"
+summary: "**Presented at**: University of Naples Federico II, the Bank of Italy, the Bank of Spain, the G4 Monetary Policy Meetings, and the Conference on the Macroeconomics of Expectations"
 
 tags: [Survey, Expectations, Inflation, Output, Supply, Demand]
 
