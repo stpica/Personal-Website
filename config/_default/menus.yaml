@@ -20,7 +20,7 @@ main:
     url: '#experience'
     weight: 50
   - name: CV
-    url: 'CV/CV_Pica.pdf'
+    url: 'CV/Pica_CV.pdf'
     # identifier: cv
     weight: 60
   # - name: Home
