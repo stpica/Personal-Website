@@ -103,7 +103,7 @@ I am a Research fellow at the Bank of Italy. My work focuses on macroeconomics, 
 
 <span> **Upcoming/Recent Talks:** </span>
 
-- 2023-02: Seminar at the DG-Economics, European Central Bank
+- 2024-02: Seminar at the DG-Economics, European Central Bank
 
 - 2023-12: [Financial stability policies in a changing lending landscape](<https://www.centralbank.ie/events/event-detail/2023/12/04/default-calendar/financial-stability-policies-in-a-changing-lending-landscape>), Central Bank of Ireland
 
