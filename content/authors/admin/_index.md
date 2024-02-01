@@ -6,7 +6,7 @@ title: Stefano Pica
 superuser: true
 
 # Role/position/tagline
-role: Research Fellow @ Bank of Italy
+role: Advisor @ Bank of Italy
 
 # Organizations/Affiliations to show in About widget
 # organizations:
@@ -91,17 +91,19 @@ social:
 #   link: media/CV_Pica.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "stpica@bu.edu"
+email: "stefano.pica@bancaditalia.it"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I am a Research fellow at the Bank of Italy. My work focuses on macroeconomics, with a focus on monetary policy and household finance.
+I am an Advisor at the Bank of Italy. My work mostly focuses on macroeconomics, with an emphasis on monetary policy and household finance.
 
 <span> **Disclaimer:** </span> The views expressed on this website are my own and do not necessarily reflect those of the Bank of Italy or the Euro-system.
 
 <span> **Upcoming/Recent Talks:** </span>
+
+- 2024-03: ESCB Research Cluster on Monetary Economics, Central Bank of Poland
 
 - 2024-02: Seminar at the DG-Economics, European Central Bank
 
@@ -122,6 +124,12 @@ I am a Research fellow at the Bank of Italy. My work focuses on macroeconomics, 
 
 - 2022-10-04: Seminar at [CSEF](https://csef.it/events/seminars/), Naples -->
 
+<!-- - 2022/05: [Mortgage Market Research Conference](<https://www.philadelphiafed.org/calendar-of-events/mortgage-market-research-conference-2022>), Philadelphia FED
+
+- 2022/04: [Theories and Methods in Macroeconomics 2022](<https://t2m2022.sciencesconf.org/resource/page/id/4#B2>), King's College London -->
+
+
+
 <!-- <span style="color:red"> **[News]:** </span> -->
 <span> **News:** </span>
 
@@ -131,10 +139,6 @@ I am a Research fellow at the Bank of Italy. My work focuses on macroeconomics, 
 
 <!-- - 2022-06: I have been selected as a finalist for the European Central Bank’s [2022 Young Economist Prize](https://www.ecb.europa.eu/pub/conferences/ecbforum/YE_competition/html/index.en.html) -->
 
-
-<!-- - 2022/05: [Mortgage Market Research Conference](<https://www.philadelphiafed.org/calendar-of-events/mortgage-market-research-conference-2022>), Philadelphia FED
-
-- 2022/04: [Theories and Methods in Macroeconomics 2022](<https://t2m2022.sciencesconf.org/resource/page/id/4#B2>), King's College London -->
 
 
 <!-- I am on Job Market and available for interviews at the EJME 2021 and at the ASSA 2022. -->
