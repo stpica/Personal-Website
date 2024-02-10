@@ -13,7 +13,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2023-11-01T00:00:00Z"
+date: "2024-02-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -35,7 +35,7 @@ publication_short: "Working Paper"
 abstract: "We study the joint behavior of households’ survey expectations for a wide range of macroeconomic and individual-level variables in the largest six euro area countries, both in the cross-section and time series. Although households disagree, their expectations are correlated in the cross-section. Two principal components explain a significant portion of the variance of all expectations. These components capture households’ perceptions of the sources of macroeconomic dynamics, with the first capturing supply-side views and the second component reflecting demand-side views. This structure of perceptions and disagreement is stable across countries and time and does not vary with demographic or socioeconomic characteristics. We then use these insights to identify two common factors driving expectations over time. The factors co-move strongly with measures of supply and demand disturbances and align well with a narrative based on increasing perceived inflationary pressures coming from supply after the invasion of Ukraine in February 2022."
 
 # Summary. An optional shortened abstract.
-summary: " **Presented at**: University of Naples Federico II, the Bank of Italy, the Bank of Spain, the G4 Monetary Policy Meetings, and the Conference on the Macroeconomics of Expectations"
+summary: " **Presented at**: University of Naples Federico II, European Central Bank, Bank of Italy, Bank of Spain, G4 Monetary Policy Meetings, the Conference on the Macroeconomics of Expectations"
 
 tags: [Survey, Expectations, Inflation, Output, Supply, Demand]
 
@@ -46,7 +46,12 @@ featured: true
 links:
   - icon_pack: fas
     icon: file-pdf
-    name: 'PDF'
+    name: 'Bank of Italy Working Paper (2024-02)'
+    url: 'research/CESpaper/2024-02_Tema.pdf'
+
+  - icon_pack: fas
+    icon: file-pdf
+    name: 'Working Paper (2023-12)'
     url: 'research/CESpaper/SupplyDemandCES_FerreiraPica.pdf'
 
   # - icon_pack: fas
