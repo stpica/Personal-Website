@@ -103,16 +103,18 @@ I am an Advisor at the Bank of Italy. My work mostly focuses on macroeconomics, 
 
 <span> **Upcoming/Recent Talks:** </span>
 
+- 2024-06: [13th MoFiR Workshop on Banking](<https://sites.google.com/view/mofirseminars/workshop2024>), London
+
 - 2024-03: ESCB Research Cluster on Monetary Economics, Central Bank of Poland
 
 - 2024-02: Seminar at the DG-Economics, European Central Bank
 
-- 2023-12: [Financial stability policies in a changing lending landscape](<https://www.centralbank.ie/events/event-detail/2023/12/04/default-calendar/financial-stability-policies-in-a-changing-lending-landscape>), Central Bank of Ireland
+<!-- - 2023-12: [Financial stability policies in a changing lending landscape](<https://www.centralbank.ie/events/event-detail/2023/12/04/default-calendar/financial-stability-policies-in-a-changing-lending-landscape>), Central Bank of Ireland
 
 - 2023-10: [ChaMP Research Network - Workstream 1](<https://www.ecb.europa.eu/pub/economic-research/research-networks/html/champ.en.html>), Banco de Portugal
 
 
-- 2023-10: [2023 ECB Conference on Monetary Policy: bridging science and practice](<https://www.ecb.europa.eu/pub/conferences/html/20231004_mon_pol_conference.en.html>), European Central Bank
+- 2023-10: [2023 ECB Conference on Monetary Policy: bridging science and practice](<https://www.ecb.europa.eu/pub/conferences/html/20231004_mon_pol_conference.en.html>), European Central Bank -->
 
 <!-- - 2023-06: [Conference on the Macroeconomics of Expectations](<https://cepr.org/events/banque-de-france-cepr-and-paris-school-economics-joint-conference-macroeconomics>), Bank of France -->
 
