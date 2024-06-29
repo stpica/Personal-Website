@@ -1,5 +1,5 @@
 ---
-title: "Household Perceived Sources of Business Cycle Fluctuations: a Tale of Supply and Demand"
+title: "Households' Subjective Expectations: Disagreement, Common Drivers and Reaction to Monetary Policy"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -13,7 +13,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2024-02-01T00:00:00Z"
+date: "2024-06-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -32,10 +32,10 @@ publication_types: ["0"]
 # publication: DRAFT COMING SOON!
 publication_short: "Working Paper"
 
-abstract: "We study the joint behavior of households’ survey expectations for a wide range of macroeconomic and individual-level variables in the largest six euro area countries, both in the cross-section and time series. Although households disagree, their expectations are correlated in the cross-section. Two principal components explain a significant portion of the variance of all expectations. These components capture households’ perceptions of the sources of macroeconomic dynamics, with the first capturing supply-side views and the second component reflecting demand-side views. This structure of perceptions and disagreement is stable across countries and time and does not vary with demographic or socioeconomic characteristics. We then use these insights to identify two common factors driving expectations over time. The factors co-move strongly with measures of supply and demand disturbances and align well with a narrative based on increasing perceived inflationary pressures coming from supply after the invasion of Ukraine in February 2022."
+abstract: "Using granular data on household subjective expectations for several countries, we uncover a robust positive reaction of inflation expectations to a contractionary monetary policy shock, a result at odds with standard equilibrium theories with nominal rigidities. We then investigate what lies behind such result. Although households disagree, their expectations are correlated in the cross-section. Two principal components account for a significant portion of the variance of all expectations. These components capture households’ perceptions of the sources of macroeconomic dynamics, with the first capturing either a supply-side view or an overall dislike for inflation, and the second component reflecting a perception about demand pressures. This structure of disagreement is stable across countries and over time and does not vary with demographic or socioeconomic characteristics. We then use these insights to identify two common factors driving expectations over time. These factors are consistent with a narrative based on perceived supply-side inflationary pressures after the invasion of Ukraine in February 2022, as well as with the overall downward inflation dynamics intensified by the reaction of the ECB."
 
 # Summary. An optional shortened abstract.
-summary: " **Presented at**: University of Naples Federico II, European Central Bank, Bank of Italy, Bank of Spain, G4 Monetary Policy Meetings, the Conference on the Macroeconomics of Expectations"
+summary: " **Presented at**: University of Naples Federico II, European Central Bank, Bank of Italy, Bank of Spain, G4 Monetary Policy Meetings, Conference on the Macroeconomics of Expectations, ESCB Research Cluster on Monetary Economics"
 
 tags: [Survey, Expectations, Inflation, Output, Supply, Demand]
 
@@ -46,13 +46,18 @@ featured: true
 links:
   - icon_pack: fas
     icon: file-pdf
-    name: 'Bank of Italy Working Paper (2024-02)'
-    url: 'research/CESpaper/2024-02_Tema.pdf'
+    name: 'SSRN'
+    url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4849713
 
-  - icon_pack: fas
-    icon: file-pdf
-    name: 'Working Paper (2023-12)'
-    url: 'research/CESpaper/SupplyDemandCES_FerreiraPica.pdf'
+  # - icon_pack: fas
+  #   icon: file-pdf
+  #   name: 'Bank of Italy Working Paper (2024-02)'
+  #   url: 'research/CESpaper/2024-02_Tema.pdf'
+
+  # - icon_pack: fas
+  #   icon: file-pdf
+  #   name: 'Working Paper (2023-12)'
+  #   url: 'research/CESpaper/SupplyDemandCES_FerreiraPica.pdf'
 
   # - icon_pack: fas
   #   icon: bullhorn

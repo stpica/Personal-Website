@@ -1,5 +1,5 @@
 ---
-title: "Deposit Reallocation, Bank Lending, And Financial Crises"
+title: "Distortive Effects of Deposit Insurance: Administrative Evidence from Deposit and Loan Accounts"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
